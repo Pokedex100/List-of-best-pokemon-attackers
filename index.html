@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Attackers by Type</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script type="importmap">
+      {
+        "imports": {
+          "@material/web/": "https://esm.run/@material/web/"
+        }
+      }
+    </script>
+    <script type="module">
+        import '@material/web/all.js';
+        import { styles as typescaleStyles } from '@material/web/typography/md-typescale-styles.js';
+
+        document.adoptedStyleSheets.push(typescaleStyles.styleSheet);
+    </script>
+    <style>
+        :root,
+        :host {
+            --md-sys-color-background: #0f1418;
+            --md-sys-color-on-background: #dfe3e8;
+            --md-sys-color-surface: #0f1418;
+            --md-sys-color-surface-dim: #0f1418;
+            --md-sys-color-surface-bright: #353a3e;
+            --md-sys-color-surface-container-lowest: #0a0f12;
+            --md-sys-color-surface-container-low: #171c20;
+            --md-sys-color-surface-container: #1b2024;
+            --md-sys-color-surface-container-high: #262b2f;
+            --md-sys-color-surface-container-highest: #313539;
+            --md-sys-color-on-surface: #dfe3e8;
+            --md-sys-color-surface-variant: #3f4850;
+            --md-sys-color-on-surface-variant: #bec8d1;
+            --md-sys-color-inverse-surface: #dfe3e8;
+            --md-sys-color-inverse-on-surface: #2c3135;
+            --md-sys-color-outline: #88929b;
+            --md-sys-color-outline-variant: #3f4850;
+            --md-sys-color-shadow: #000000;
+            --md-sys-color-scrim: #000000;
+            --md-sys-color-surface-tint: #87ceff;
+            --md-sys-color-primary: #b3deff;
+            --md-sys-color-on-primary: #00344d;
+            --md-sys-color-primary-container: #4cb9f8;
+            --md-sys-color-on-primary-container: #00273b;
+            --md-sys-color-inverse-primary: #006590;
+            --md-sys-color-secondary: #a8cbe6;
+            --md-sys-color-on-secondary: #0b344a;
+            --md-sys-color-secondary-container: #1f435a;
+            --md-sys-color-on-secondary-container: #b6d9f5;
+            --md-sys-color-tertiary: #f3ccff;
+            --md-sys-color-on-tertiary: #4d1168;
+            --md-sys-color-tertiary-container: #d997f3;
+            --md-sys-color-on-tertiary-container: #40005a;
+            --md-sys-color-error: #ffb4ab;
+            --md-sys-color-on-error: #690005;
+            --md-sys-color-error-container: #93000a;
+            --md-sys-color-on-error-container: #ffdad6;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img src="./images/pokedex.png" alt="Pokedex100" height="30px">
+        <md-tabs>
+            <md-primary-tab active>
+                <img class="type-disc grass" slot="icon" src="./icons/grass.svg" alt="Grass Type Icon">
+                Grass
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc fire" slot="icon" src="./icons/fire.svg" alt="Fire Type Icon">
+                Fire
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc water" slot="icon" src="./icons/water.svg" alt="Water Type Icon">
+                Water
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc electric" slot="icon" src="./icons/electric.svg" alt="Electric Type Icon">
+                Electric
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc ground" slot="icon" src="./icons/ground.svg" alt="Ground Type Icon">
+                Ground
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc ice" slot="icon" src="./icons/ice.svg" alt="Ice Type Icon">
+                Ice
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc rock" slot="icon" src="./icons/rock.svg" alt="Rock Type Icon">
+                Rock
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc steel" slot="icon" src="./icons/steel.svg" alt="Steel Type Icon">
+                Steel
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc fighting" slot="icon" src="./icons/fighting.svg" alt="Fighting Type Icon">
+                Fighting
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc psychic" slot="icon" src="./icons/psychic.svg" alt="Psychic Type Icon">
+                Psychic
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc ghost" slot="icon" src="./icons/ghost.svg" alt="Ghost Type Icon">
+                Ghost
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc dark" slot="icon" src="./icons/dark.svg" alt="Dark Type Icon">
+                Dark
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc fairy" slot="icon" src="./icons/fairy.svg" alt="Fairy Type Icon">
+                Fairy
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc poison" slot="icon" src="./icons/poison.svg" alt="Poison Type Icon">
+                Poison
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc bug" slot="icon" src="./icons/bug.svg" alt="Bug Type Icon">
+                Bug
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc flying" slot="icon" src="./icons/flying.svg" alt="Flying Type Icon">
+                Flying
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc dragon" slot="icon" src="./icons/dragon.svg" alt="Dragon Type Icon">
+                Dragon
+            </md-primary-tab>
+            <md-primary-tab>
+                <img class="type-disc normal" slot="icon" src="./icons/normal.svg" alt="Normal Type Icon">
+                Normal
+            </md-primary-tab>
+        </md-tabs>
+    </header>
+
+
+    <main>
+
+    </main>
+    <script src="app.js" type="module"></script>
+</body>
+
+</html>

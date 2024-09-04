@@ -1,0 +1,178 @@
+[
+    {
+        "pokemon": "Yveltal",
+        "variant": [],
+        "imageName": "yveltal.png",
+        "first_move": [
+            "oblivion wing* (dark)"
+        ],
+        "second_move": [
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Mega Tyranitar",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "tyranitar-mega.png",
+        "first_move": [
+            "crunch (dark)",
+            "stone edge (rock)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Bisharp",
+        "variant": [],
+        "imageName": "bisharp.png",
+        "first_move": [
+            "knock off* (dark)"
+        ],
+        "second_move": [
+            "iron head (steel)",
+            "sucker punch (dark)"
+        ]
+    },
+    {
+        "pokemon": "Umbreon",
+        "variant": [],
+        "imageName": "umbreon.png",
+        "first_move": [
+            "foul play (dark)",
+            "moonlight (fairy)"
+        ],
+        "second_move": [
+            "toxic (poison)"
+        ]
+    },
+    {
+        "pokemon": "Scrafty",
+        "variant": [],
+        "imageName": "scrafty.png",
+        "first_move": [
+            "foul play (dark)",
+            "high jump kick (fighting)"
+        ],
+        "second_move": [
+            "ice punch (ice)"
+        ]
+    },
+    {
+        "pokemon": "Sableye",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "sableye-mega.png",
+        "first_move": [
+            "foul play (dark)",
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "recover (normal)"
+        ]
+    },
+    {
+        "pokemon": "Honchkrow",
+        "variant": [],
+        "imageName": "honchkrow.png",
+        "first_move": [
+            "dark pulse (dark)",
+            "brave bird (flying)"
+        ],
+        "second_move": [
+            "heat wave (fire)"
+        ]
+    },
+    {
+        "pokemon": "Greninja",
+        "variant": [],
+        "imageName": "greninja.png",
+        "first_move": [
+            "dark pulse (dark)",
+            "ice beam (ice)"
+        ],
+        "second_move": [
+            "water shuriken (water)"
+        ]
+    },
+    {
+        "pokemon": "Mandibuzz",
+        "variant": [],
+        "imageName": "mandibuzz.png",
+        "first_move": [
+            "foul play (dark)",
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "roost (flying)"
+        ]
+    },
+    {
+        "pokemon": "Darkrai",
+        "variant": [],
+        "imageName": "darkrai.png",
+        "first_move": [
+            "dark pulse (dark)",
+            "dream eater (dark)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Sharpedo",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "sharpedo-mega.png",
+        "first_move": [
+            "crunch (dark)",
+            "hydro pump (water)"
+        ],
+        "second_move": [
+            "ice fang (ice)"
+        ]
+    },
+    {
+        "pokemon": "Weavile",
+        "variant": [],
+        "imageName": "weavile.png",
+        "first_move": [
+            "night slash (dark)",
+            "ice punch (ice)"
+        ],
+        "second_move": [
+            "sucker punch (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Tyranitar",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "tyranitar.png",
+        "first_move": [
+            "crunch (dark)",
+            "stone edge (rock)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Umbreon",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "umbreon.png",
+        "first_move": [
+            "moonlight* (fairy)"
+        ],
+        "second_move": [
+            "toxic (poison)"
+        ]
+    }
+]
