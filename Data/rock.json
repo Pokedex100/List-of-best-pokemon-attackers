@@ -1,0 +1,83 @@
+[
+    {
+        "pokemon": "Tyranitar",
+        "variant": [],
+        "imageName": "tyranitar",
+        "first_move": [
+            "smack down* (rock)"
+        ],
+        "second_move": [
+            "stone edge (rock)"
+        ]
+    },
+    {
+        "pokemon": "Rhyperior",
+        "variant": [],
+        "imageName": "rhyperior",
+        "first_move": [
+            "smack down* (rock)"
+        ],
+        "second_move": [
+            "rock wrecker* (rock)"
+        ]
+    },
+    {
+        "pokemon": "Rampardos",
+        "variant": [],
+        "imageName": "rampardos",
+        "first_move": [
+            "smack down* (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
+        ]
+    },
+    {
+        "pokemon": "Terrakion",
+        "variant": [],
+        "imageName": "terrakion",
+        "first_move": [
+            "smack down* (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
+        ]
+    },
+    {
+        "pokemon": "Regirock",
+        "variant": [],
+        "imageName": "regirock",
+        "first_move": [
+            "rock throw (rock)"
+        ],
+        "second_move": [
+            "stone edge (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Tyranitar",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "tyranitar",
+        "first_move": [
+            "smack down* (rock)"
+        ],
+        "second_move": [
+            "stone edge (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Omastar",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "omastar",
+        "first_move": [
+            "rock throw (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
+        ]
+    }
+]

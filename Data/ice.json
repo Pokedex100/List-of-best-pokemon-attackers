@@ -1,0 +1,94 @@
+[
+    {
+        "pokemon": "Mamoswine",
+        "variant": [],
+        "imageName": "mamoswine",
+        "first_move": [
+            "powder snow (ice)"
+        ],
+        "second_move": [
+            "avalanche (ice)"
+        ]
+    },
+    {
+        "pokemon": "Weavile",
+        "variant": [],
+        "imageName": "weavile",
+        "first_move": [
+            "ice shard (ice)"
+        ],
+        "second_move": [
+            "avalanche (ice)"
+        ]
+    },
+    {
+        "pokemon": "Glaceon",
+        "variant": [],
+        "imageName": "glaceon",
+        "first_move": [
+            "frost breath (ice)"
+        ],
+        "second_move": [
+            "avalanche (ice)"
+        ]
+    },
+    {
+        "pokemon": "Lapras",
+        "variant": [],
+        "imageName": "lapras",
+        "first_move": [
+            "frost breath (ice)"
+        ],
+        "second_move": [
+            "ice beam (ice)"
+        ]
+    },
+    {
+        "pokemon": "Articuno",
+        "variant": [],
+        "imageName": "articuno",
+        "first_move": [
+            "frost breath (ice)"
+        ],
+        "second_move": [
+            "ice beam (ice)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Weavile",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "weavile",
+        "first_move": [
+            "ice shard (ice)"
+        ],
+        "second_move": [
+            "avalanche (ice)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Articuno",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "articuno",
+        "first_move": [
+            "frost breath (ice)"
+        ],
+        "second_move": [
+            "ice beam (ice)"
+        ]
+    },
+    {
+        "pokemon": "Black Kyurem",
+        "variant": [],
+        "imageName": "kyurem-black",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "blizzard (ice)"
+        ]
+    }
+]

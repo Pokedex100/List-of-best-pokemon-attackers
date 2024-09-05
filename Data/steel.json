@@ -1,0 +1,94 @@
+[
+    {
+        "pokemon": "Mega Metagross",
+        "variant": [],
+        "imageName": "metagross-mega",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "meteor mash* (steel)"
+        ]
+    },
+    {
+        "pokemon": "Magnezone",
+        "variant": [],
+        "imageName": "magnezone",
+        "first_move": [
+            "spark (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Lucario",
+        "variant": [],
+        "imageName": "lucario",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "power-up punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Dialga",
+        "variant": [],
+        "imageName": "dialga",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Excadrill",
+        "variant": [],
+        "imageName": "excadrill",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "drill run (ground)"
+        ]
+    },
+    {
+        "pokemon": "Melmetal",
+        "variant": [],
+        "imageName": "melmetal",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Metagross",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "metagross",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "meteor mash* (steel)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Scizor",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "scizor",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    }
+]
