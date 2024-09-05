@@ -1,0 +1,142 @@
+[
+    {
+        "pokemon": "Raikou",
+        "variant": [],
+        "imageName": "raikou",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Zapdos",
+        "variant": [],
+        "imageName": "zapdos",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Electivire",
+        "variant": [],
+        "imageName": "electivire",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Magnezone",
+        "variant": [],
+        "imageName": "magnezone",
+        "first_move": [
+            "spark (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Thundurus (Therian)",
+        "variant": [
+            "Therian"
+        ],
+        "imageName": "thundurus-therian",
+        "first_move": [
+            "volt switch (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Luxray",
+        "variant": [],
+        "imageName": "luxray",
+        "first_move": [
+            "spark (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Zekrom",
+        "variant": [],
+        "imageName": "zekrom",
+        "first_move": [
+            "charge beam (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Ampharos",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "ampharos-mega",
+        "first_move": [
+            "volt switch (electric)"
+        ],
+        "second_move": [
+            "zap cannon (electric)"
+        ]
+    },
+    {
+        "pokemon": "Rotom (Wash)",
+        "variant": [],
+        "imageName": "rotom-wash",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Raikou",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "raikou",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Zapdos",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "zapdos",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Jolteon",
+        "variant": [],
+        "imageName": "jolteon",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "thunderbolt (electric)"
+        ]
+    }
+]

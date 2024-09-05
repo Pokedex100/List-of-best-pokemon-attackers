@@ -1,0 +1,168 @@
+[
+    {
+        "pokemon": "Dragonite",
+        "variant": [],
+        "imageName": "dragonite",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "hurricane (flying)"
+        ]
+    },
+    {
+        "pokemon": "Garchomp",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "garchomp-mega",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "earthquake (ground)",
+            "outrage (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Salamence",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "salamence-mega",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Rayquaza",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "rayquaza-mega",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "aerial ace (flying)"
+        ]
+    },
+    {
+        "pokemon": "Dialga",
+        "variant": [],
+        "imageName": "dialga",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "draco meteor (dragon)",
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Zekrom",
+        "variant": [],
+        "imageName": "zekrom",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Palkia",
+        "variant": [],
+        "imageName": "palkia",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "draco meteor (dragon)",
+            "hydro pump (water)"
+        ]
+    },
+    {
+        "pokemon": "Hydreigon",
+        "variant": [],
+        "imageName": "hydreigon",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "dark pulse (dark)",
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Latios",
+        "variant": [],
+        "imageName": "latios",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "psychic (psychic)",
+            "dragon claw (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Dragonite",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "dragonite",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "hurricane (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Salamence",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "salamence",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)",
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Goodra",
+        "variant": [],
+        "imageName": "goodra",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "power whip (grass)",
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Haxorus",
+        "variant": [],
+        "imageName": "haxorus",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "dragon claw (dragon)",
+            "night slash (dark)"
+        ]
+    }
+]

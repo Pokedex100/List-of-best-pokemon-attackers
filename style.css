@@ -162,7 +162,7 @@ article[data-variant="kyogre-primal"]::after {
 }
 
 article[data-variant="primal"]:has(img[src*="kyogre"]) {
-    border: 2px solid rgb(34, 87, 147);
+    border: 2px solid rgb(67, 223, 243);
 }
 
 
@@ -187,7 +187,7 @@ article[data-variant="groudon-primal"]::after {
 }
 
 article[data-variant="primal"]:has(img[src*="groudon"]) {
-    border: 2px solid rgb(147, 43, 34);
+    border: 2px solid rgb(226, 67, 52);
 }
 
 article[data-variant="mega"]::after {
@@ -208,7 +208,7 @@ article[data-variant="mega"] {
 }
 
 article[data-variant="shadow"] {
-    border: 2px solid rgb(139, 23, 139);
+    border: 2px solid rgb(182, 40, 221);
 }
 
 article[data-variant="shadow"]::after {
@@ -219,6 +219,20 @@ article[data-variant="shadow"]::after {
     inset-block-start: 0;
     transform-origin: 100% 0;
     padding: 360px;
+}
+
+article[data-variant="gigantamax"] {
+    border: 2px solid rgb(214, 40, 115);
+}
+
+article[data-variant="gigantamax"]::after {
+    position: absolute;
+    content: url("/images/gigantamax.png");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
 }
 
 article>h2 {
@@ -242,6 +256,7 @@ md-assist-chip {
     border-radius: 16px;
     position: relative;
     text-transform: capitalize;
+    margin-inline: 4px;
 }
 
 md-assist-chip[data-legacy="true"]::after {
@@ -261,6 +276,7 @@ md-assist-chip[data-legacy="true"]::after {
     width: 10px;
     height: 10px;
     border-radius: 50%;
+    z-index: 2;
 }
 
 md-assist-chip[data-legacy="true"]:hover::after {

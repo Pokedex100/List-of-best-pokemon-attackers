@@ -1,0 +1,142 @@
+[
+    {
+        "pokemon": "Primal Groudon",
+        "variant": [
+            "Primal"
+        ],
+        "imageName": "groudon",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Garchomp",
+        "variant": [],
+        "imageName": "garchomp",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earth power* (ground)"
+        ]
+    },
+    {
+        "pokemon": "Rhyperior",
+        "variant": [],
+        "imageName": "rhyperior",
+        "first_move": [
+            "mud slap (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Mamoswine",
+        "variant": [],
+        "imageName": "mamoswine",
+        "first_move": [
+            "mud slap (ground)"
+        ],
+        "second_move": [
+            "bulldoze (ground)"
+        ]
+    },
+    {
+        "pokemon": "Excadrill",
+        "variant": [],
+        "imageName": "excadrill",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Swampert",
+        "variant": [],
+        "imageName": "swampert",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake* (ground)"
+        ]
+    },
+    {
+        "pokemon": "Landorus",
+        "variant": [
+            "Therian"
+        ],
+        "imageName": "landorus-therian",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Gliscor",
+        "variant": [],
+        "imageName": "gliscor",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Donphan",
+        "variant": [],
+        "imageName": "donphan",
+        "first_move": [
+            "mud slap (ground)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Nidoking",
+        "variant": [],
+        "imageName": "nidoking",
+        "first_move": [
+            "mud slap (ground)"
+        ],
+        "second_move": [
+            "earth power (ground)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Swampert",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "swampert",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earthquake* (ground)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Flygon",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "flygon",
+        "first_move": [
+            "mud shot (ground)"
+        ],
+        "second_move": [
+            "earth power (ground)"
+        ]
+    }
+]

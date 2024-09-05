@@ -1,5 +1,9 @@
 import { typeThemeMap } from "./JavaScript/typeThemeMap.mjs";
 
+document.addEventListener("DOMContentLoaded", () => {
+  fetchJSON();
+});
+
 document.querySelector("md-tabs").addEventListener("change", async (e) => {
   const type = e.target.activeTab.textContent.trim();
   const style = document.createElement("style");

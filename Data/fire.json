@@ -1,0 +1,128 @@
+[
+    {
+        "pokemon": "Charizard",
+        "variant": [
+            "Mega X",
+            "Mega Y"
+        ],
+        "imageName": "charizard-mega-x",
+        "first_move": [
+            "blast burn* (fire)",
+            "dragon claw (dragon)"
+        ],
+        "second_move": [
+            "fire spin (fire)"
+        ]
+    },
+    {
+        "pokemon": "Blaziken",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "blaziken-mega",
+        "first_move": [
+            "blast burn* (fire)"
+        ],
+        "second_move": [
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Moltres",
+        "variant": [],
+        "imageName": "moltres",
+        "first_move": [
+            "overheat (fire)",
+            "sky attack (flying)"
+        ],
+        "second_move": [
+            "heat wave (fire)"
+        ]
+    },
+    {
+        "pokemon": "Entei",
+        "variant": [],
+        "imageName": "entei",
+        "first_move": [
+            "fire fang (fire)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Heatran",
+        "variant": [],
+        "imageName": "heatran",
+        "first_move": [
+            "flamethrower (fire)",
+            "earth power (ground)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Reshiram",
+        "variant": [],
+        "imageName": "reshiram",
+        "first_move": [
+            "fusion flare (fire)"
+        ],
+        "second_move": [
+            "dragon breath (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Charizard",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "charizard",
+        "first_move": [
+            "blast burn* (fire)"
+        ],
+        "second_move": [
+            "dragon claw (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Infernape",
+        "variant": [],
+        "imageName": "infernape",
+        "first_move": [
+            "blast burn* (fire)",
+            "close combat (fighting)"
+        ],
+        "second_move": [
+            "flame wheel (fire)"
+        ]
+    },
+    {
+        "pokemon": "Primal Groudon",
+        "variant": [
+            "Primal"
+        ],
+        "imageName": "groudon-primal",
+        "first_move": [
+            "fire punch (fire)",
+            "earthquake (ground)"
+        ],
+        "second_move": [
+            "solar beam (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Moltres",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "moltres",
+        "first_move": [
+            "overheat (fire)"
+        ],
+        "second_move": [
+            "sky attack (flying)"
+        ]
+    }
+]
