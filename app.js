@@ -64,3 +64,8 @@ const moveAssign = (chips, move, index) => {
   img.classList.add(type);
   if (move.includes("*")) chips[index].dataset.legacy = "true";
 };
+
+document.querySelector("md-switch").addEventListener("change", (e) => {
+  if (e.target.selected) document.body.classList.remove("reduced");
+  else document.body.classList.add("reduced");
+});

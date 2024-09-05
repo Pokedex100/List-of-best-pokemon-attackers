@@ -234,7 +234,8 @@ article[data-variant="mega"] {
 }
 
 @media (prefers-reduced-motion: no-preference) {
-    article[data-variant="mega"] {
+
+    body:not(.reduced) article[data-variant="mega"] {
         animation: borderColorChange 4s infinite;
     }
 }
@@ -327,4 +328,14 @@ md-assist-chip[data-legacy="true"]:hover::after {
     width: unset;
     height: unset;
     z-index: 2;
+}
+
+label {
+    position: absolute;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 25px;
 }

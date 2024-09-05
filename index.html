@@ -66,9 +66,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="reduced">
     <header>
         <img src="./images/pokedex.png" alt="Pokedex100" height="40px">
+        <label class="md-typescale-body-medium">
+            Animations
+            <md-switch aria-label="Toggle Animations"></md-switch>
+        </label>
         <md-tabs>
             <md-primary-tab>
                 <img class="type-disc grass" slot="icon" src="./icons/grass.svg" alt="Grass Type Icon">
@@ -143,6 +147,7 @@
                 Normal
             </md-primary-tab>
         </md-tabs>
+
     </header>
 
     <main>
