@@ -122,6 +122,7 @@ article {
     border-radius: 20px;
     padding: 20px;
     background-color: color-mix(in srgb, var(--md-sys-color-background) 90%, var(--md-sys-color-primary) 10%);
+    border: 2px solid var(--md-sys-color-on-primary);
 }
 
 article>img {
@@ -160,6 +161,11 @@ article[data-variant="kyogre-primal"]::after {
     padding: 50px;
 }
 
+article[data-variant="primal"]:has(img[src*="kyogre"]) {
+    border: 2px solid rgb(34, 87, 147);
+}
+
+
 article[data-variant="primal"]:has(img[src*="groudon"])::after {
     position: absolute;
     content: url("/images/primal-groudon.webp");
@@ -180,6 +186,10 @@ article[data-variant="groudon-primal"]::after {
     padding: 50px;
 }
 
+article[data-variant="primal"]:has(img[src*="groudon"]) {
+    border: 2px solid rgb(147, 43, 34);
+}
+
 article[data-variant="mega"]::after {
     position: absolute;
     content: url("/images/mega.png");
@@ -188,6 +198,17 @@ article[data-variant="mega"]::after {
     inset-block-start: 0;
     transform-origin: 100% 0;
     padding: 200px;
+}
+
+article[data-variant="mega"] {
+    border-top-color: rgb(220, 116, 255);
+    border-left-color: rgb(54, 228, 234);
+    border-right-color: rgb(86, 249, 105);
+    border-bottom-color: rgb(251, 251, 87);
+}
+
+article[data-variant="shadow"] {
+    border: 2px solid rgb(139, 23, 139);
 }
 
 article[data-variant="shadow"]::after {
