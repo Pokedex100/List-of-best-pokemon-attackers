@@ -2,7 +2,7 @@
     {
         "pokemon": "Yveltal",
         "variant": [],
-        "imageName": "yveltal.png",
+        "imageName": "yveltal",
         "first_move": [
             "oblivion wing* (dark)"
         ],
@@ -15,7 +15,7 @@
         "variant": [
             "Mega"
         ],
-        "imageName": "tyranitar-mega.png",
+        "imageName": "tyranitar-mega",
         "first_move": [
             "crunch (dark)",
             "stone edge (rock)"
@@ -27,7 +27,7 @@
     {
         "pokemon": "Bisharp",
         "variant": [],
-        "imageName": "bisharp.png",
+        "imageName": "bisharp",
         "first_move": [
             "knock off* (dark)"
         ],
@@ -39,7 +39,7 @@
     {
         "pokemon": "Umbreon",
         "variant": [],
-        "imageName": "umbreon.png",
+        "imageName": "umbreon",
         "first_move": [
             "foul play (dark)",
             "moonlight (fairy)"
@@ -51,7 +51,7 @@
     {
         "pokemon": "Scrafty",
         "variant": [],
-        "imageName": "scrafty.png",
+        "imageName": "scrafty",
         "first_move": [
             "foul play (dark)",
             "high jump kick (fighting)"
@@ -65,7 +65,7 @@
         "variant": [
             "Mega"
         ],
-        "imageName": "sableye-mega.png",
+        "imageName": "sableye-mega",
         "first_move": [
             "foul play (dark)",
             "shadow claw (ghost)"
@@ -77,7 +77,7 @@
     {
         "pokemon": "Honchkrow",
         "variant": [],
-        "imageName": "honchkrow.png",
+        "imageName": "honchkrow",
         "first_move": [
             "dark pulse (dark)",
             "brave bird (flying)"
@@ -89,7 +89,7 @@
     {
         "pokemon": "Greninja",
         "variant": [],
-        "imageName": "greninja.png",
+        "imageName": "greninja",
         "first_move": [
             "dark pulse (dark)",
             "ice beam (ice)"
@@ -101,7 +101,7 @@
     {
         "pokemon": "Mandibuzz",
         "variant": [],
-        "imageName": "mandibuzz.png",
+        "imageName": "mandibuzz",
         "first_move": [
             "foul play (dark)",
             "air slash (flying)"
@@ -113,7 +113,7 @@
     {
         "pokemon": "Darkrai",
         "variant": [],
-        "imageName": "darkrai.png",
+        "imageName": "darkrai",
         "first_move": [
             "dark pulse (dark)",
             "dream eater (dark)"
@@ -127,7 +127,7 @@
         "variant": [
             "Mega"
         ],
-        "imageName": "sharpedo-mega.png",
+        "imageName": "sharpedo-mega",
         "first_move": [
             "crunch (dark)",
             "hydro pump (water)"
@@ -139,7 +139,7 @@
     {
         "pokemon": "Weavile",
         "variant": [],
-        "imageName": "weavile.png",
+        "imageName": "weavile",
         "first_move": [
             "night slash (dark)",
             "ice punch (ice)"
@@ -153,7 +153,7 @@
         "variant": [
             "Shadow"
         ],
-        "imageName": "tyranitar.png",
+        "imageName": "tyranitar",
         "first_move": [
             "crunch (dark)",
             "stone edge (rock)"
@@ -167,7 +167,7 @@
         "variant": [
             "Shadow"
         ],
-        "imageName": "umbreon.png",
+        "imageName": "umbreon",
         "first_move": [
             "moonlight* (fairy)"
         ],
