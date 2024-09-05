@@ -200,6 +200,7 @@ h2 {
 md-assist-chip {
     border-radius: 16px;
     position: relative;
+    text-transform: capitalize;
 }
 
 md-assist-chip[data-legacy="true"]::after {
