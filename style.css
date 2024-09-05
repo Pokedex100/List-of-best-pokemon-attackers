@@ -136,6 +136,46 @@ article[data-rank]::before {
     opacity: 0.2;
 }
 
+article[data-variant="kyogre-primal"]::after {
+    position: absolute;
+    content: url("/images/primal-kyogre.png");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
+}
+
+article[data-variant="groudon-primal"]::after {
+    position: absolute;
+    content: url("/images/primal-groudon.webp");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
+}
+
+article[data-variant="mega"]::after {
+    position: absolute;
+    content: url("/images/mega.png");
+    scale: 0.1;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 200px;
+}
+
+article[data-variant="shadow"]::after {
+    position: absolute;
+    content: url("/images/shadow.png");
+    scale: 0.05;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 360px;
+}
+
 article>h2 {
     text-transform: uppercase;
     color: var(--md-sys-color-primary);
