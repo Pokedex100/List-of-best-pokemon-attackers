@@ -5,4 +5,7 @@ document.querySelector("md-tabs").addEventListener("change", (e) => {
   const style = document.createElement("style");
   style.innerHTML = typeThemeMap.get(type);
   document.head.appendChild(style);
+  fetchJSON(type);
 });
+
+const fetchJSON = (type = "water") => {};
