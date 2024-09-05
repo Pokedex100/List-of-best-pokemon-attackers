@@ -1,0 +1,85 @@
+[
+    {
+        "pokemon": "Snorlax",
+        "variant": [],
+        "imageName": "snorlax",
+        "first_move": [
+            "lick* (ghost)"
+        ],
+        "second_move": [
+            "body slam (normal)"
+        ]
+    },
+    {
+        "pokemon": "Clefable",
+        "variant": [],
+        "imageName": "clefable",
+        "first_move": [
+            "pound (normal)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Blissey",
+        "variant": [],
+        "imageName": "blissey",
+        "first_move": [
+            "pound (normal)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Pidgeot",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "pidgeot-mega",
+        "first_move": [
+            "wing attack (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Regigigas",
+        "variant": [],
+        "imageName": "regigigas",
+        "first_move": [
+            "normal move (normal)"
+        ],
+        "second_move": [
+            "giga impact (normal)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Snorlax",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "snorlax",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "body slam (normal)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Blissey",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "blissey",
+        "first_move": [
+            "pound (normal)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    }
+]

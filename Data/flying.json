@@ -1,0 +1,83 @@
+[
+    {
+        "pokemon": "Talonflame",
+        "variant": [],
+        "imageName": "talonflame",
+        "first_move": [
+            "wing attack (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Charizard",
+        "variant": [],
+        "imageName": "charizard",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "wing attack (flying)"
+        ]
+    },
+    {
+        "pokemon": "Honchkrow",
+        "variant": [],
+        "imageName": "honchkrow",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Gliscor",
+        "variant": [],
+        "imageName": "gliscor",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Mandibuzz",
+        "variant": [],
+        "imageName": "mandibuzz",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "foul play (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Talonflame",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "talonflame",
+        "first_move": [
+            "wing attack (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Honchkrow",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "honchkrow",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    }
+]
