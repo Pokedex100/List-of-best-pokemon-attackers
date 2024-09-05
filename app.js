@@ -1,5 +1,7 @@
 import { typeThemeMap } from "./JavaScript/typeThemeMap.mjs";
 
+const template = document.querySelector("template");
+
 document.addEventListener("DOMContentLoaded", () => {
   fetchJSON();
 });
@@ -9,7 +11,7 @@ document.querySelector("md-tabs").addEventListener("change", async (e) => {
   const style = document.createElement("style");
   style.innerHTML = typeThemeMap.get(type);
   document.head.appendChild(style);
-  document.querySelector("div[role='region']").innerHTML = "";
+  document.querySelector("main").innerHTML = "";
   await fetchJSON(type);
 });
 
@@ -17,15 +19,19 @@ const fetchJSON = async (type = "water") => {
   const response = await fetch(`./Data/${type.toLowerCase()}.json`);
   const jsonData = await response.json();
   const parent = document.createElement("div");
+
+  parent.setAttribute("role", "region");
+  parent.setAttribute("aria-live", "polite");
+  parent.setAttribute("aria-atomic", "true");
+  parent.setAttribute("tabindex", "0");
+
   jsonData.forEach((data, index) => {
     createUI(data, index, parent);
   });
-  document.querySelector("div[role='region']").appendChild(parent);
+  document.querySelector("main").appendChild(parent);
 };
 
 const createUI = (data, index, parent) => {
-  console.log(data, index);
-  const template = document.querySelector("template");
   const clone = template.content.cloneNode(true);
   const article = clone.querySelector("article");
   article.dataset.rank = "#" + ++index;
