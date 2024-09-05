@@ -69,8 +69,12 @@
 <body class="reduced">
     <header>
 
-        <img srcset="./images/logo.png 480w, ./images/pokedex.png 800w" sizes="(max-width: 600px) 480px,
-               800px" src="./images/pokedex.png" alt="Pokedex100" height="40px">
+        <picture>
+            <source srcset="./images/logo.png" media="(max-width: 767px)">
+            <source srcset="./images/pokedex.png" media="(min-width: 768px)">
+            <img src="./images/logo.png" alt="Pokedex100" height="40px">
+        </picture>
+
         <label class="md-typescale-body-medium">
             Animations
             <md-switch aria-label="Toggle Animations"></md-switch>
