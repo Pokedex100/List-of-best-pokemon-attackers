@@ -72,6 +72,15 @@ const moveAssign = (chips, move, index) => {
 };
 
 document.querySelector("md-switch").addEventListener("change", (e) => {
+  switchAnimation(e);
+});
+
+const switchAnimation = (e) => {
   if (e.target.selected) document.body.classList.remove("reduced");
   else document.body.classList.add("reduced");
-});
+  localStorage.setItem("animation", e.target.selected.toString());
+};
+
+if (localStorage.getItem("animation") === "true") {
+  document.querySelector("md-switch").click();
+}
