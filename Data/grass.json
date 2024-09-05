@@ -1,0 +1,140 @@
+[
+    {
+        "pokemon": "Venusaur",
+        "variant": [],
+        "imageName": "venusaur",
+        "first_move": [
+            "solar beam (grass)",
+            "sludge bomb (poison)"
+        ],
+        "second_move": [
+            "earthquake (ground)"
+        ]
+    },
+    {
+        "pokemon": "Mega Sceptile",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "sceptile-mega",
+        "first_move": [
+            "leaf blade (grass)"
+        ],
+        "second_move": [
+            "dragon claw (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Roserade",
+        "variant": [],
+        "imageName": "roserade",
+        "first_move": [
+            "leaf storm (grass)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Ferrothorn",
+        "variant": [],
+        "imageName": "ferrothorn",
+        "first_move": [
+            "power whip (grass)"
+        ],
+        "second_move": [
+            "gyro ball* (steel)"
+        ]
+    },
+    {
+        "pokemon": "Torterra",
+        "variant": [],
+        "imageName": "torterra",
+        "first_move": [
+            "wood hammer (grass)"
+        ],
+        "second_move": [
+            "earthquake* (ground)"
+        ]
+    },
+    {
+        "pokemon": "Tangrowth",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "tangrowth",
+        "first_move": [
+            "power whip (grass)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Lurantis",
+        "variant": [],
+        "imageName": "lurantis",
+        "first_move": [
+            "leaf blade (grass)"
+        ],
+        "second_move": [
+            "superpower (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shiftry",
+        "variant": [],
+        "imageName": "shiftry",
+        "first_move": [
+            "leaf storm (grass)",
+            "foul play (dark)"
+        ],
+        "second_move": [
+            "hurricane (flying)"
+        ]
+    },
+    {
+        "pokemon": "Leafeon",
+        "variant": [],
+        "imageName": "leafeon",
+        "first_move": [
+            "leaf blade (grass)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Chesnaught",
+        "variant": [],
+        "imageName": "chesnaught",
+        "first_move": [
+            "wood hammer (grass)"
+        ],
+        "second_move": [
+            "drain punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Tropius",
+        "variant": [],
+        "imageName": "tropius",
+        "first_move": [
+            "leaf blade (grass)"
+        ],
+        "second_move": [
+            "aerial ace (flying)"
+        ]
+    },
+    {
+        "pokemon": "Decidueye",
+        "variant": [],
+        "imageName": "decidueye",
+        "first_move": [
+            "leaf blade (grass)"
+        ],
+        "second_move": [
+            "spirit shackle (ghost)"
+        ]
+    }
+]
