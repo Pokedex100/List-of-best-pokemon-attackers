@@ -105,10 +105,10 @@ body {
 
 header {
     display: block;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
 header>img {
-    padding-block: 20px;
+    padding-block: 10px 20px;
 }
