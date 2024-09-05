@@ -1,3 +1,8 @@
+import { typeThemeMap } from "./JavaScript/typeThemeMap.mjs";
+
 document.querySelector("md-tabs").addEventListener("change", (e) => {
-  console.log(e.target.activeTab.textContent);
+  const type = e.target.activeTab.textContent.trim();
+  const style = document.createElement("style");
+  style.innerHTML = typeThemeMap.get(type);
+  document.head.appendChild(style);
 });
