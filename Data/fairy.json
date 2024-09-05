@@ -1,0 +1,85 @@
+[
+    {
+        "pokemon": "Sylveon",
+        "variant": [],
+        "imageName": "sylveon",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Mega Gardevoir",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "gardevoir-mega",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Granbull",
+        "variant": [],
+        "imageName": "granbull",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "play rough (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Togekiss",
+        "variant": [],
+        "imageName": "togekiss",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Clefable",
+        "variant": [],
+        "imageName": "clefable",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Sylveon",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "sylveon",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Gardevoir",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "gardevoir",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    }
+]
