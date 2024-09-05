@@ -1,7 +1,9 @@
 [
     {
         "pokemon": "Mega Metagross",
-        "variant": [],
+        "variant": [
+            "Mega"
+        ],
         "imageName": "metagross-mega",
         "first_move": [
             "bullet punch (steel)"
