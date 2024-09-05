@@ -140,9 +140,29 @@ article[data-rank]::before {
     opacity: 0.2;
 }
 
+article[data-variant="primal"]:has(img[src*="kyogre"])::after {
+    position: absolute;
+    content: url("/images/primal-kyogre.png");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
+}
+
 article[data-variant="kyogre-primal"]::after {
     position: absolute;
     content: url("/images/primal-kyogre.png");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
+}
+
+article[data-variant="primal"]:has(img[src*="groudon"])::after {
+    position: absolute;
+    content: url("/images/primal-groudon.webp");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
