@@ -112,3 +112,83 @@ header {
 header>img {
     padding-block: 10px 20px;
 }
+
+article {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    max-inline-size: 100%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: color-mix(in srgb, var(--md-sys-color-background) 90%, var(--md-sys-color-primary) 10%);
+}
+
+article[data-rank]::before {
+    position: absolute;
+    content: attr(data-rank);
+    font-family: "Roboto", sans-serif;
+    color: var(--md-sys-color-primary);
+    font-size: 98px;
+    inset-inline-start: 0;
+    inset-block-start: 0;
+    padding: 20px;
+    opacity: 0.2;
+}
+
+article>h2 {
+    text-transform: uppercase;
+    color: var(--md-sys-color-primary);
+}
+
+div[role="region"] {
+    margin-block: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+md-assist-chip {
+    border-radius: 16px;
+    position: relative;
+}
+
+md-assist-chip[data-legacy="true"]::after {
+    position: absolute;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    justify-content: center;
+    align-items: center;
+    content: "*";
+    background-color: var(--md-sys-color-background);
+    color: var(--md-sys-color-primary);
+    inset-inline-end: -1ch;
+    inset-block-start: -7px;
+    padding: 6px;
+    padding-block-start: 8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+md-assist-chip[data-legacy="true"]:hover::after {
+    position: absolute;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    justify-content: center;
+    align-items: center;
+    content: "* legacy";
+    background-color: var(--md-sys-color-background);
+    color: var(--md-sys-color-primary);
+    inset-inline-end: -6.5ch;
+    inset-block-start: -7px;
+    padding: 6px;
+    border-radius: 10px;
+    width: unset;
+    height: unset;
+    z-index: 2;
+}
