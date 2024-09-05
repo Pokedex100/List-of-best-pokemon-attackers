@@ -207,6 +207,38 @@ article[data-variant="mega"] {
     border-bottom-color: rgb(251, 251, 87);
 }
 
+@keyframes borderColorChange {
+    0% {
+        border-color: #b827fc;
+    }
+
+    20% {
+        border-color: #2c90fc;
+    }
+
+    40% {
+        border-color: #b8fd33;
+    }
+
+    60% {
+        border-color: #fec837;
+    }
+
+    80% {
+        border-color: #fd1892;
+    }
+
+    100% {
+        border-color: #b827fc;
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    article[data-variant="mega"] {
+        animation: borderColorChange 4s infinite;
+    }
+}
+
 article[data-variant="shadow"] {
     border: 2px solid rgb(182, 40, 221);
 }

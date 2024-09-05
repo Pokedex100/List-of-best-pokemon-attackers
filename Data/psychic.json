@@ -1,0 +1,85 @@
+[
+    {
+        "pokemon": "Mega Mewtwo y",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "mewtwo-mega-y",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Alakazam",
+        "variant": [],
+        "imageName": "alakazam",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Espeon",
+        "variant": [],
+        "imageName": "espeon",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Metagross",
+        "variant": [],
+        "imageName": "metagross",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Gardevoir",
+        "variant": [],
+        "imageName": "gardevoir",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Alakazam",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "alakazam",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Mewtwo",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "mewtwo",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    }
+]

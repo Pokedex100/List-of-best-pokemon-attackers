@@ -1,0 +1,85 @@
+[
+    {
+        "pokemon": "Machamp",
+        "variant": [],
+        "imageName": "machamp",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Mega Lucario",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "lucario-mega",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "power-up punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Conkeldurr",
+        "variant": [],
+        "imageName": "conkeldurr",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Hariyama",
+        "variant": [],
+        "imageName": "hariyama",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Blaziken",
+        "variant": [],
+        "imageName": "blaziken",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Machamp",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "machamp",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Lucario",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "lucario",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "power-up punch (fighting)"
+        ]
+    }
+]

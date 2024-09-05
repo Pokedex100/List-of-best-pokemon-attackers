@@ -1,0 +1,87 @@
+[
+    {
+        "pokemon": "Mega Gengar",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "gengar-mega",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Mimikyu",
+        "variant": [],
+        "imageName": "mimikyu",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Sableye",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "sableye-mega",
+        "first_move": [
+            "foul play (dark)"
+        ],
+        "second_move": [
+            "shadow claw (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Banette",
+        "variant": [],
+        "imageName": "banette",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Giratina",
+        "variant": [],
+        "imageName": "giratina",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Gengar",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "gengar",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Mimikyu",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "mimikyu",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    }
+]
