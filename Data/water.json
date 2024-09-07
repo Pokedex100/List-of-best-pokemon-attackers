@@ -13,7 +13,7 @@
         ]
     },
     {
-        "pokemon": "Blastoise",
+        "pokemon": "Mega Blastoise",
         "variant": [
             "Mega"
         ],
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "pokemon": "Swampert",
+        "pokemon": "Mega Swampert",
         "variant": [
             "Mega"
         ],
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "pokemon": "Gyarados",
+        "pokemon": "Mega Gyarados",
         "variant": [
             "Mega"
         ],
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "pokemon": "Sharpedo",
+        "pokemon": "Mega Sharpedo",
         "variant": [
             "Mega"
         ],
