@@ -239,6 +239,8 @@ article[data-variant="dynamax"]>h2::before {
     scale: 0.3;
     inset-block-start: 0;
     z-index: 2;
+    mix-blend-mode: color;
+    filter: contrast(2) hue-rotate(-10deg);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -253,6 +255,8 @@ article[data-variant="dynamax"]>h2::before {
         scale: 0.3;
         inset-block-start: 0;
         z-index: 2;
+        mix-blend-mode: color;
+        filter: contrast(2) hue-rotate(-10deg);
     }
 }
 
