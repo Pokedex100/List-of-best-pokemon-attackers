@@ -1,9 +1,8 @@
 [
     {
-        "pokemon": "Charizard",
+        "pokemon": "Mega Charizard X",
         "variant": [
-            "Mega X",
-            "Mega Y"
+            "Mega",
         ],
         "imageName": "charizard-mega-x",
         "first_move": [
