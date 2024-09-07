@@ -233,6 +233,14 @@ article[data-variant="mega"] {
     }
 }
 
+article[data-variant="dynamax"]>h2::before {
+    position: absolute;
+    content: url(./images/dynamax.png);
+    scale: 0.3;
+    inset-block-start: 0;
+    z-index: 2;
+}
+
 @media (prefers-reduced-motion: no-preference) {
 
     body:not(.reduced) article[data-variant="mega"] {
