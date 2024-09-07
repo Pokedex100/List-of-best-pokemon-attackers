@@ -254,9 +254,28 @@ article[data-variant="shadow"]::after {
     padding: 360px;
 }
 
+article[data-variant="dynamax"] img[draggable="false"] {
+    filter: drop-shadow(0 0 1rem rgba(255, 0, 93, 0.7));
+}
+
+article[data-variant="dynamax"] {
+    border: 2px solid rgb(214, 40, 115);
+}
+
+article[data-variant="dynamax"]::after {
+    position: absolute;
+    content: url("/images/gigantamax.png");
+    scale: 0.3;
+    inset-inline-end: 0;
+    inset-block-start: 0;
+    transform-origin: 100% 0;
+    padding: 50px;
+}
+
 article[data-variant="gigantamax"] {
     border: 2px solid rgb(214, 40, 115);
 }
+
 
 article[data-variant="gigantamax"]::after {
     position: absolute;

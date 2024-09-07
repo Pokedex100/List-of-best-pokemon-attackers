@@ -81,5 +81,18 @@
         "second_move": [
             "dazzling gleam (fairy)"
         ]
+    },
+    {
+        "pokemon": "Dynamax Wooloo",
+        "variant": [
+            "Dynamax"
+        ],
+        "imageName": "wooloo",
+        "first_move": [
+            "pound (normal)"
+        ],
+        "second_move": [
+            "stomp (normal)"
+        ]
     }
 ]
