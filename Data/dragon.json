@@ -12,7 +12,7 @@
         ]
     },
     {
-        "pokemon": "Garchomp",
+        "pokemon": "Mega Garchomp",
         "variant": [
             "Mega"
         ],
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "pokemon": "Salamence",
+        "pokemon": "Mega Salamence",
         "variant": [
             "Mega"
         ],
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "pokemon": "Rayquaza",
+        "pokemon": "Mega Rayquaza",
         "variant": [
             "Mega"
         ],
@@ -54,9 +54,9 @@
         ]
     },
     {
-        "pokemon": "Dialga",
+        "pokemon": "Dialga Origin",
         "variant": [],
-        "imageName": "dialga",
+        "imageName": "dialga-origin",
         "first_move": [
             "dragon breath (dragon)"
         ],
