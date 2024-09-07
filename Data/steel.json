@@ -57,9 +57,11 @@
         ]
     },
     {
-        "pokemon": "Melmetal",
-        "variant": [],
-        "imageName": "melmetal",
+        "pokemon": "Gigantamax Melmetal",
+        "variant": [
+            "Gigantamax"
+        ],
+        "imageName": "melmetal-gigantamax",
         "first_move": [
             "thunder shock (electric)"
         ],
