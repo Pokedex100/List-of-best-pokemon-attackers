@@ -4,6 +4,7 @@ const template = document.querySelector("template");
 
 document.addEventListener("DOMContentLoaded", () => {
   fetchJSON();
+  document.body.classList.add("loaded");
 });
 
 document.querySelector("md-tabs").addEventListener("change", async (e) => {

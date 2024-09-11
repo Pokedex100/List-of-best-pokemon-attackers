@@ -1,8 +1,12 @@
 body {
+    display: none;
     background-color: var(--md-sys-color-background);
     color: var(--md-sys-color-on-background);
 }
 
+body.loaded {
+    display: block;
+}
 
 .bug {
     background: #92BC2C;
