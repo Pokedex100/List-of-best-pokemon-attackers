@@ -322,6 +322,7 @@ div[role="region"] {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     gap: 10px;
+    margin-block-end: 80px;
 }
 
 h2 {
