@@ -143,7 +143,7 @@ article[data-rank]::before {
 
 article[data-variant="primal"]:has(img[src*="kyogre"])::after {
     position: absolute;
-    content: url("/images/primal-kyogre.png");
+    content: url("./images/primal-kyogre.png");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -153,7 +153,7 @@ article[data-variant="primal"]:has(img[src*="kyogre"])::after {
 
 article[data-variant="kyogre-primal"]::after {
     position: absolute;
-    content: url("/images/primal-kyogre.png");
+    content: url("./images/primal-kyogre.png");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -168,7 +168,7 @@ article[data-variant="primal"]:has(img[src*="kyogre"]) {
 
 article[data-variant="primal"]:has(img[src*="groudon"])::after {
     position: absolute;
-    content: url("/images/primal-groudon.webp");
+    content: url("./images/primal-groudon.webp");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -178,7 +178,7 @@ article[data-variant="primal"]:has(img[src*="groudon"])::after {
 
 article[data-variant="groudon-primal"]::after {
     position: absolute;
-    content: url("/images/primal-groudon.webp");
+    content: url("./images/primal-groudon.webp");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -192,7 +192,7 @@ article[data-variant="primal"]:has(img[src*="groudon"]) {
 
 article[data-variant="mega"]::after {
     position: absolute;
-    content: url("/images/mega.png");
+    content: url("./images/mega.png");
     scale: 0.1;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -235,7 +235,7 @@ article[data-variant="mega"] {
 
 article[data-variant="dynamax"]>h2::before {
     position: absolute;
-    content: url(./images/dynamax.png);
+    content: url(../images/dynamax.png);
     scale: 0.3;
     inset-block-start: 0;
     z-index: 2;
@@ -251,7 +251,7 @@ article[data-variant="dynamax"]>h2::before {
 
     body:not(.reduced) article[data-variant="dynamax"]>h2::before {
         position: absolute;
-        content: url(./images/dynamax.gif);
+        content: url(../images/dynamax.gif);
         scale: 0.3;
         inset-block-start: 0;
         z-index: 2;
@@ -266,7 +266,7 @@ article[data-variant="shadow"] {
 
 article[data-variant="shadow"]::after {
     position: absolute;
-    content: url("/images/shadow.png");
+    content: url("./images/shadow.png");
     scale: 0.05;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -284,7 +284,7 @@ article[data-variant="dynamax"] {
 
 article[data-variant="dynamax"]::after {
     position: absolute;
-    content: url("/images/gigantamax.png");
+    content: url("./images/gigantamax.png");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -299,7 +299,7 @@ article[data-variant="gigantamax"] {
 
 article[data-variant="gigantamax"]::after {
     position: absolute;
-    content: url("/images/gigantamax.png");
+    content: url("./images/gigantamax.png");
     scale: 0.3;
     inset-inline-end: 0;
     inset-block-start: 0;
@@ -377,4 +377,23 @@ label {
     align-items: center;
     gap: 10px;
     padding: 25px;
+}
+
+@media screen and (width < 768px) {
+    md-tabs {
+        position: fixed;
+        width: 100%;
+        inset-block-end: 0;
+        inset-inline-start: 0;
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        overflow-x: auto;
+        overflow-y: auto;
+        scroll-behavior: smooth;
+    }
+
+    md-tabs::-webkit-scrollbar {
+        display: none;
+    }
 }
