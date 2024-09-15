@@ -1,0 +1,21 @@
+{
+    "name": "Pokémon Attackers by Type",
+    "short_name": "Pokémon Attackers",
+    "description": "A comprehensive list of the best Pokémon attackers categorized by type.",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#0f1418",
+    "theme_color": "#87ceff",
+    "icons": [
+        {
+            "src": "./images/logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/logo-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
