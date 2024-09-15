@@ -1,11 +1,11 @@
 {
-    "name": "Pokémon Attackers by Type",
-    "short_name": "Pokémon Attackers",
+    "name": "Pokédex100 Type",
+    "short_name": "Pokédex100 Type",
     "description": "A comprehensive list of the best Pokémon attackers categorized by type.",
     "start_url": "./",
     "display": "standalone",
-    "background_color": "#0f1418",
-    "theme_color": "#87ceff",
+    "background_color": "#050305",
+    "theme_color": "#844F73",
     "icons": [
         {
             "src": "./images/logo-192x192.png",
