@@ -239,7 +239,7 @@ article[data-variant="mega"] {
 
 article[data-variant="dynamax"]>h2::before {
     position: absolute;
-    content: url(../images/dynamax.png);
+    content: url(./images/dynamax.png);
     scale: 0.3;
     inset-block-start: 0;
     z-index: 2;
@@ -255,7 +255,7 @@ article[data-variant="dynamax"]>h2::before {
 
     body:not(.reduced) article[data-variant="dynamax"]>h2::before {
         position: absolute;
-        content: url(../images/dynamax.gif);
+        content: url(./images/dynamax.gif);
         scale: 0.3;
         inset-block-start: 0;
         z-index: 2;
