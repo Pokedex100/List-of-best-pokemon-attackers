@@ -13,52 +13,6 @@
         ]
     },
     {
-        "pokemon": "Mimikyu",
-        "variant": [],
-        "imageName": "mimikyu",
-        "first_move": [
-            "shadow claw (ghost)"
-        ],
-        "second_move": [
-            "shadow ball (ghost)"
-        ]
-    },
-    {
-        "pokemon": "Mega Sableye",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "sableye-mega",
-        "first_move": [
-            "foul play (dark)"
-        ],
-        "second_move": [
-            "shadow claw (ghost)"
-        ]
-    },
-    {
-        "pokemon": "Banette",
-        "variant": [],
-        "imageName": "banette",
-        "first_move": [
-            "shadow claw (ghost)"
-        ],
-        "second_move": [
-            "shadow ball (ghost)"
-        ]
-    },
-    {
-        "pokemon": "Giratina",
-        "variant": [],
-        "imageName": "giratina",
-        "first_move": [
-            "shadow claw (ghost)"
-        ],
-        "second_move": [
-            "shadow ball (ghost)"
-        ]
-    },
-    {
         "pokemon": "Shadow Gengar",
         "variant": [
             "Shadow"
@@ -72,13 +26,159 @@
         ]
     },
     {
-        "pokemon": "Shadow Mimikyu",
+        "pokemon": "Shadow Chandelure",
         "variant": [
             "Shadow"
         ],
-        "imageName": "mimikyu",
+        "imageName": "chandelure",
+        "first_move": [
+            "hex (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Blacephalon",
+        "variant": [],
+        "imageName": "blacephalon",
+        "first_move": [
+            "astonish (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Dawn Wings Necrozma",
+        "variant": [
+            "Dawn Wings"
+        ],
+        "imageName": "necrozma-dawn-wings",
         "first_move": [
             "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "moongeist beam* (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Banette",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "banette",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Mega Banette",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "banette-mega",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Darkrai",
+        "variant": [],
+        "imageName": "darkrai",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Gengar",
+        "variant": [],
+        "imageName": "gengar",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Haunter",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "haunter",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Giratina Origin",
+        "variant": [
+            "Origin"
+        ],
+        "imageName": "giratina-origin",
+        "first_move": [
+            "shadow claw (ghost)"
+        ],
+        "second_move": [
+            "shadow force* (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Mismagius",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "mismagius",
+        "first_move": [
+            "hex (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Chandelure",
+        "variant": [],
+        "imageName": "chandelure",
+        "first_move": [
+            "hex (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Dragapult",
+        "variant": [],
+        "imageName": "dragapult",
+        "first_move": [
+            "hex (ghost)"
+        ],
+        "second_move": [
+            "shadow ball (ghost)"
+        ]
+    },
+    {
+        "pokemon": "Hoopa (Confined)",
+        "variant": [
+            "Confined"
+        ],
+        "imageName": "hoopa-confined",
+        "first_move": [
+            "astonish (ghost)"
         ],
         "second_move": [
             "shadow ball (ghost)"

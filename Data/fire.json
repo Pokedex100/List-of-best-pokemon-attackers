@@ -1,75 +1,80 @@
 [
     {
-        "pokemon": "Mega Charizard X",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "charizard-mega-x",
-        "first_move": [
-            "blast burn* (fire)",
-            "dragon claw (dragon)"
-        ],
-        "second_move": [
-            "fire spin (fire)"
-        ]
-    },
-    {
         "pokemon": "Mega Blaziken",
         "variant": [
             "Mega"
         ],
         "imageName": "blaziken-mega",
         "first_move": [
+            "fire spin (fire)"
+        ],
+        "second_move": [
             "blast burn* (fire)"
-        ],
-        "second_move": [
-            "focus blast (fighting)"
         ]
     },
     {
-        "pokemon": "Moltres",
-        "variant": [],
-        "imageName": "moltres",
-        "first_move": [
-            "overheat (fire)",
-            "sky attack (flying)"
+        "pokemon": "Shadow Heatran",
+        "variant": [
+            "Shadow"
         ],
-        "second_move": [
-            "heat wave (fire)"
-        ]
-    },
-    {
-        "pokemon": "Entei",
-        "variant": [],
-        "imageName": "entei",
-        "first_move": [
-            "fire fang (fire)"
-        ],
-        "second_move": [
-            "iron head (steel)"
-        ]
-    },
-    {
-        "pokemon": "Heatran",
-        "variant": [],
         "imageName": "heatran",
         "first_move": [
-            "flamethrower (fire)",
-            "earth power (ground)"
+            "fire spin (fire)"
         ],
         "second_move": [
-            "iron head (steel)"
+            "magma storm* (fire)"
         ]
     },
     {
-        "pokemon": "Reshiram",
-        "variant": [],
-        "imageName": "reshiram",
+        "pokemon": "Mega Charizard X",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "charizard-mega-x",
         "first_move": [
-            "fusion flare (fire)"
+            "fire spin (fire)"
         ],
         "second_move": [
-            "dragon breath (dragon)"
+            "blast burn* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Mega Charizard Y",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "charizard-mega-y",
+        "first_move": [
+            "fire spin (fire)"
+        ],
+        "second_move": [
+            "blast burn* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Blaziken",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "blaziken",
+        "first_move": [
+            "fire spin (fire)"
+        ],
+        "second_move": [
+            "blast burn* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Infernape",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "infernape",
+        "first_move": [
+            "fire spin (fire)"
+        ],
+        "second_move": [
+            "blast burn* (fire)"
         ]
     },
     {
@@ -79,22 +84,60 @@
         ],
         "imageName": "charizard",
         "first_move": [
-            "blast burn* (fire)"
+            "fire spin (fire)"
         ],
         "second_move": [
-            "dragon claw (dragon)"
+            "blast burn* (fire)"
         ]
     },
     {
-        "pokemon": "Infernape",
-        "variant": [],
-        "imageName": "infernape",
+        "pokemon": "Shadow Typhlosion",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "typhlosion",
         "first_move": [
-            "blast burn* (fire)",
-            "close combat (fighting)"
+            "incinerate (fire)"
         ],
         "second_move": [
-            "flame wheel (fire)"
+            "blast burn* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Mega Houndoom",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "houndoom-mega",
+        "first_move": [
+            "fire fang (fire)"
+        ],
+        "second_move": [
+            "flamethrower (fire)"
+        ]
+    },
+    {
+        "pokemon": "Blacephalon",
+        "variant": [],
+        "imageName": "blacephalon",
+        "first_move": [
+            "incinerate (fire)"
+        ],
+        "second_move": [
+            "mystical fire* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Chandelure",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "chandelure",
+        "first_move": [
+            "fire spin (fire)"
+        ],
+        "second_move": [
+            "flame charge (fire)"
         ]
     },
     {
@@ -104,11 +147,34 @@
         ],
         "imageName": "groudon-primal",
         "first_move": [
-            "fire punch (fire)",
-            "earthquake (ground)"
+            "mud shot (ground)"
         ],
         "second_move": [
-            "solar beam (grass)"
+            "fire blast (fire)"
+        ]
+    },
+    {
+        "pokemon": "Reshiram",
+        "variant": [],
+        "imageName": "reshiram",
+        "first_move": [
+            "fire fang (fire)"
+        ],
+        "second_move": [
+            "fusion flare* (fire)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Ho-Oh",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "ho-oh",
+        "first_move": [
+            "incinerate (fire)"
+        ],
+        "second_move": [
+            "sacred fire* (fire)"
         ]
     },
     {
@@ -118,10 +184,10 @@
         ],
         "imageName": "moltres",
         "first_move": [
-            "overheat (fire)"
+            "fire spin (fire)"
         ],
         "second_move": [
-            "sky attack (flying)"
+            "heat wave (fire)"
         ]
     }
 ]

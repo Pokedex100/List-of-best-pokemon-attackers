@@ -1,151 +1,15 @@
 [
     {
-        "pokemon": "Yveltal",
-        "variant": [],
-        "imageName": "yveltal",
-        "first_move": [
-            "oblivion wing* (dark)"
-        ],
-        "second_move": [
-            "focus blast (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Mega Tyranitar",
+        "pokemon": "Mega Absol",
         "variant": [
             "Mega"
         ],
-        "imageName": "tyranitar-mega",
+        "imageName": "absol-mega",
         "first_move": [
-            "crunch (dark)",
-            "stone edge (rock)"
+            "snarl (dark)"
         ],
         "second_move": [
-            "earthquake (ground)"
-        ]
-    },
-    {
-        "pokemon": "Bisharp",
-        "variant": [],
-        "imageName": "bisharp",
-        "first_move": [
-            "knock off* (dark)"
-        ],
-        "second_move": [
-            "iron head (steel)",
-            "sucker punch (dark)"
-        ]
-    },
-    {
-        "pokemon": "Umbreon",
-        "variant": [],
-        "imageName": "umbreon",
-        "first_move": [
-            "foul play (dark)",
-            "moonlight (fairy)"
-        ],
-        "second_move": [
-            "toxic (poison)"
-        ]
-    },
-    {
-        "pokemon": "Scrafty",
-        "variant": [],
-        "imageName": "scrafty",
-        "first_move": [
-            "foul play (dark)",
-            "high jump kick (fighting)"
-        ],
-        "second_move": [
-            "ice punch (ice)"
-        ]
-    },
-    {
-        "pokemon": "Mega Sableye",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "sableye-mega",
-        "first_move": [
-            "foul play (dark)",
-            "shadow claw (ghost)"
-        ],
-        "second_move": [
-            "recover (normal)"
-        ]
-    },
-    {
-        "pokemon": "Honchkrow",
-        "variant": [],
-        "imageName": "honchkrow",
-        "first_move": [
-            "dark pulse (dark)",
-            "brave bird (flying)"
-        ],
-        "second_move": [
-            "heat wave (fire)"
-        ]
-    },
-    {
-        "pokemon": "Greninja",
-        "variant": [],
-        "imageName": "greninja",
-        "first_move": [
-            "dark pulse (dark)",
-            "ice beam (ice)"
-        ],
-        "second_move": [
-            "water shuriken (water)"
-        ]
-    },
-    {
-        "pokemon": "Mandibuzz",
-        "variant": [],
-        "imageName": "mandibuzz",
-        "first_move": [
-            "foul play (dark)",
-            "air slash (flying)"
-        ],
-        "second_move": [
-            "roost (flying)"
-        ]
-    },
-    {
-        "pokemon": "Darkrai",
-        "variant": [],
-        "imageName": "darkrai",
-        "first_move": [
-            "dark pulse (dark)",
-            "dream eater (dark)"
-        ],
-        "second_move": [
-            "shadow ball (ghost)"
-        ]
-    },
-    {
-        "pokemon": "Mega Sharpedo",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "sharpedo-mega",
-        "first_move": [
-            "crunch (dark)",
-            "hydro pump (water)"
-        ],
-        "second_move": [
-            "ice fang (ice)"
-        ]
-    },
-    {
-        "pokemon": "Weavile",
-        "variant": [],
-        "imageName": "weavile",
-        "first_move": [
-            "night slash (dark)",
-            "ice punch (ice)"
-        ],
-        "second_move": [
-            "sucker punch (dark)"
+            "dark pulse (dark)"
         ]
     },
     {
@@ -155,24 +19,171 @@
         ],
         "imageName": "tyranitar",
         "first_move": [
-            "crunch (dark)",
-            "stone edge (rock)"
+            "bite (dark)"
         ],
         "second_move": [
-            "earthquake (ground)"
+            "brutal swing* (dark)"
         ]
     },
     {
-        "pokemon": "Shadow Umbreon",
+        "pokemon": "Mega Tyranitar",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "tyranitar-mega",
+        "first_move": [
+            "bite (dark)"
+        ],
+        "second_move": [
+            "brutal swing* (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Absol",
         "variant": [
             "Shadow"
         ],
-        "imageName": "umbreon",
+        "imageName": "absol",
         "first_move": [
-            "moonlight* (fairy)"
+            "snarl (dark)"
         ],
         "second_move": [
-            "toxic (poison)"
+            "dark pulse (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Honchkrow",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "honchkrow",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "dark pulse (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Weavile",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "weavile",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "foul play (dark)"
+        ]
+    },
+    {
+        "pokemon": "Tyranitar",
+        "variant": [],
+        "imageName": "tyranitar",
+        "first_move": [
+            "bite (dark)"
+        ],
+        "second_move": [
+            "brutal swing* (dark)"
+        ]
+    },
+    {
+        "pokemon": "Hydreigon",
+        "variant": [],
+        "imageName": "hydreigon",
+        "first_move": [
+            "bite (dark)"
+        ],
+        "second_move": [
+            "brutal swing* (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Houndoom",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "houndoom",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "foul play (dark)"
+        ]
+    },
+    {
+        "pokemon": "Mega Houndoom",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "houndoom-mega",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "foul play (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Shiftry",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "shiftry",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "foul play (dark)"
+        ]
+    },
+    {
+        "pokemon": "Darkrai",
+        "variant": [],
+        "imageName": "darkrai",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "dark pulse (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Sharpedo",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "sharpedo",
+        "first_move": [
+            "bite (dark)"
+        ],
+        "second_move": [
+            "crunch (dark)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Crawdaunt",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "crawdaunt",
+        "first_move": [
+            "snarl (dark)"
+        ],
+        "second_move": [
+            "night slash (dark)"
+        ]
+    },
+    {
+        "pokemon": "Zarude",
+        "variant": [],
+        "imageName": "zarude",
+        "first_move": [
+            "bite (dark)"
+        ],
+        "second_move": [
+            "dark pulse (dark)"
         ]
     }
 ]

@@ -1,72 +1,13 @@
 [
     {
-        "pokemon": "Mega Metagross",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "metagross-mega",
-        "first_move": [
-            "bullet punch (steel)"
-        ],
-        "second_move": [
-            "meteor mash* (steel)"
-        ]
-    },
-    {
-        "pokemon": "Magnezone",
+        "pokemon": "Dusk Mane Necrozma",
         "variant": [],
-        "imageName": "magnezone",
+        "imageName": "necrozma-dusk-mane",
         "first_move": [
-            "spark (electric)"
+            "metal claw (steel)"
         ],
         "second_move": [
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Lucario",
-        "variant": [],
-        "imageName": "lucario",
-        "first_move": [
-            "counter (fighting)"
-        ],
-        "second_move": [
-            "power-up punch (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Dialga",
-        "variant": [],
-        "imageName": "dialga",
-        "first_move": [
-            "dragon breath (dragon)"
-        ],
-        "second_move": [
-            "iron head (steel)"
-        ]
-    },
-    {
-        "pokemon": "Excadrill",
-        "variant": [],
-        "imageName": "excadrill",
-        "first_move": [
-            "mud shot (ground)"
-        ],
-        "second_move": [
-            "drill run (ground)"
-        ]
-    },
-    {
-        "pokemon": "Gigantamax Melmetal",
-        "variant": [
-            "Gigantamax"
-        ],
-        "imageName": "melmetal-gigantamax",
-        "first_move": [
-            "thunder shock (electric)"
-        ],
-        "second_move": [
-            "thunderbolt (electric)"
+            "sunsteel strike* (steel)"
         ]
     },
     {
@@ -83,11 +24,172 @@
         ]
     },
     {
+        "pokemon": "Shadow Excadrill",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "excadrill",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Dialga",
+        "variant": [],
+        "imageName": "dialga",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Dialga (Origin Forme)",
+        "variant": [
+            "Origin Forme"
+        ],
+        "imageName": "dialga-origin",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Metagross",
+        "variant": [],
+        "imageName": "metagross",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "meteor mash* (steel)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Magnezone",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "magnezone",
+        "first_move": [
+            "metal sound (steel)"
+        ],
+        "second_move": [
+            "flash cannon (steel)"
+        ]
+    },
+    {
+        "pokemon": "Excadrill",
+        "variant": [],
+        "imageName": "excadrill",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
         "pokemon": "Shadow Scizor",
         "variant": [
             "Shadow"
         ],
         "imageName": "scizor",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Melmetal",
+        "variant": [],
+        "imageName": "melmetal",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "double iron bash (steel)"
+        ]
+    },
+    {
+        "pokemon": "Mega Aerodactyl",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "aerodactyl-mega",
+        "first_move": [
+            "steel wing (steel)"
+        ],
+        "second_move": [
+            "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Magneton",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "magneton",
+        "first_move": [
+            "metal sound (steel)"
+        ],
+        "second_move": [
+            "flash cannon (steel)"
+        ]
+    },
+    {
+        "pokemon": "Mega Lucario",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "lucario-mega",
+        "first_move": [
+            "bullet punch (steel)"
+        ],
+        "second_move": [
+            "flash cannon (steel)"
+        ]
+    },
+    {
+        "pokemon": "Mega Aggron",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "aggron-mega",
+        "first_move": [
+            "iron tail (steel)"
+        ],
+        "second_move": [
+            "heavy slam (steel)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Aggron",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "aggron",
+        "first_move": [
+            "iron tail (steel)"
+        ],
+        "second_move": [
+            "heavy slam (steel)"
+        ]
+    },
+    {
+        "pokemon": "Mega Scizor",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "scizor-mega",
         "first_move": [
             "bullet punch (steel)"
         ],

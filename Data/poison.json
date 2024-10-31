@@ -1,35 +1,63 @@
 [
     {
-        "pokemon": "Gengar",
-        "variant": [],
+        "pokemon": "Shadow Gengar",
+        "variant": [
+            "Shadow"
+        ],
         "imageName": "gengar",
         "first_move": [
             "lick (ghost)"
         ],
         "second_move": [
-            "sludge bomb (poison)"
+            "sludge wave (poison)"
         ]
     },
     {
-        "pokemon": "Crobat",
-        "variant": [],
-        "imageName": "crobat",
-        "first_move": [
-            "bite (dark)"
+        "pokemon": "Shadow Toxicroak",
+        "variant": [
+            "Shadow"
         ],
-        "second_move": [
-            "sludge bomb (poison)"
-        ]
-    },
-    {
-        "pokemon": "Toxicroak",
-        "variant": [],
         "imageName": "toxicroak",
         "first_move": [
-            "counter (fighting)"
+            "poison jab (poison)"
         ],
         "second_move": [
             "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Naganadel",
+        "variant": [],
+        "imageName": "naganadel",
+        "first_move": [
+            "poison jab (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Nihilego",
+        "variant": [],
+        "imageName": "nihilego",
+        "first_move": [
+            "poison jab (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Mega Gengar",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "gengar-mega",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "sludge wave (poison)"
         ]
     },
     {
@@ -44,8 +72,84 @@
         ]
     },
     {
-        "pokemon": "Venusaur",
+        "pokemon": "Shadow Haunter",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "haunter",
+        "first_move": [
+            "lick (ghost)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Nidoking",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "nidoking",
+        "first_move": [
+            "poison jab (poison)"
+        ],
+        "second_move": [
+            "sludge wave (poison)"
+        ]
+    },
+    {
+        "pokemon": "Nidoking",
         "variant": [],
+        "imageName": "nidoking",
+        "first_move": [
+            "poison jab (poison)"
+        ],
+        "second_move": [
+            "sludge wave (poison)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Vileplume",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "vileplume",
+        "first_move": [
+            "acid (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Victreebel",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "victreebel",
+        "first_move": [
+            "acid (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Victreebel",
+        "variant": [],
+        "imageName": "victreebel",
+        "first_move": [
+            "acid (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Venusaur",
+        "variant": [
+            "Shadow"
+        ],
         "imageName": "venusaur",
         "first_move": [
             "vine whip (grass)"
@@ -55,13 +159,24 @@
         ]
     },
     {
-        "pokemon": "Shadow Gengar",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "gengar",
+        "pokemon": "Toxicroak",
+        "variant": [],
+        "imageName": "toxicroak",
         "first_move": [
-            "lick (ghost)"
+            "poison jab (poison)"
+        ],
+        "second_move": [
+            "sludge bomb (poison)"
+        ]
+    },
+    {
+        "pokemon": "Mega Venusaur",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "venusaur-mega",
+        "first_move": [
+            "vine whip (grass)"
         ],
         "second_move": [
             "sludge bomb (poison)"

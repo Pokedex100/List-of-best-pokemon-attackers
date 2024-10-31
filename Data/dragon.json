@@ -1,41 +1,14 @@
 [
     {
-        "pokemon": "Dragonite",
-        "variant": [],
-        "imageName": "dragonite",
-        "first_move": [
-            "dragon tail (dragon)"
-        ],
-        "second_move": [
-            "outrage (dragon)",
-            "hurricane (flying)"
-        ]
-    },
-    {
-        "pokemon": "Mega Garchomp",
+        "pokemon": "Shadow Salamence",
         "variant": [
-            "Mega"
+            "Shadow"
         ],
-        "imageName": "garchomp-mega",
+        "imageName": "salamence",
         "first_move": [
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "earthquake (ground)",
-            "outrage (dragon)"
-        ]
-    },
-    {
-        "pokemon": "Mega Salamence",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "salamence-mega",
-        "first_move": [
-            "dragon tail (dragon)"
-        ],
-        "second_move": [
-            "outrage (dragon)",
             "draco meteor (dragon)"
         ]
     },
@@ -49,68 +22,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "outrage (dragon)",
-            "aerial ace (flying)"
-        ]
-    },
-    {
-        "pokemon": "Dialga Origin",
-        "variant": [],
-        "imageName": "dialga-origin",
-        "first_move": [
-            "dragon breath (dragon)"
-        ],
-        "second_move": [
-            "draco meteor (dragon)",
-            "iron head (steel)"
-        ]
-    },
-    {
-        "pokemon": "Zekrom",
-        "variant": [],
-        "imageName": "zekrom",
-        "first_move": [
-            "dragon tail (dragon)"
-        ],
-        "second_move": [
-            "outrage (dragon)",
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Palkia",
-        "variant": [],
-        "imageName": "palkia",
-        "first_move": [
-            "dragon tail (dragon)"
-        ],
-        "second_move": [
-            "draco meteor (dragon)",
-            "hydro pump (water)"
-        ]
-    },
-    {
-        "pokemon": "Hydreigon",
-        "variant": [],
-        "imageName": "hydreigon",
-        "first_move": [
-            "dragon breath (dragon)"
-        ],
-        "second_move": [
-            "dark pulse (dark)",
-            "draco meteor (dragon)"
-        ]
-    },
-    {
-        "pokemon": "Latios",
-        "variant": [],
-        "imageName": "latios",
-        "first_move": [
-            "dragon breath (dragon)"
-        ],
-        "second_move": [
-            "psychic (psychic)",
-            "dragon claw (dragon)"
+            "breaking swipe (dragon)"
         ]
     },
     {
@@ -123,33 +35,32 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "outrage (dragon)",
-            "hurricane (flying)"
-        ]
-    },
-    {
-        "pokemon": "Shadow Salamence",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "salamence",
-        "first_move": [
-            "dragon tail (dragon)"
-        ],
-        "second_move": [
-            "outrage (dragon)",
             "draco meteor (dragon)"
         ]
     },
     {
-        "pokemon": "Goodra",
-        "variant": [],
-        "imageName": "goodra",
+        "pokemon": "Palkia (Origin Forme)",
+        "variant": [
+            "Origin Forme"
+        ],
+        "imageName": "palkia-origin",
         "first_move": [
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "power whip (grass)",
+            "spacial rend* (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Mega Salamence",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "salamence-mega",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
             "draco meteor (dragon)"
         ]
     },
@@ -161,8 +72,117 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "dragon claw (dragon)",
-            "night slash (dark)"
+            "breaking swipe (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Rayquaza",
+        "variant": [],
+        "imageName": "rayquaza",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "breaking swipe (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Mega Latios",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "latios-mega",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "dragon claw (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Dragapult",
+        "variant": [],
+        "imageName": "dragapult",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "breaking swipe (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Mega Sceptile",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "sceptile-mega",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "breaking swipe (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Dialga (Origin Forme)",
+        "variant": [
+            "Origin Forme"
+        ],
+        "imageName": "dialga-origin",
+        "first_move": [
+            "dragon breath (dragon)"
+        ],
+        "second_move": [
+            "roar of time* (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Garchomp",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "garchomp",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "outrage (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Salamence",
+        "variant": [],
+        "imageName": "salamence",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Palkia",
+        "variant": [],
+        "imageName": "palkia",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "draco meteor (dragon)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Alolan Exeggutor",
+        "variant": [
+            "Shadow",
+            "Alolan"
+        ],
+        "imageName": "exeggutor-alolan",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "draco meteor (dragon)"
         ]
     }
 ]

@@ -1,31 +1,59 @@
 [
     {
-        "pokemon": "Machamp",
-        "variant": [],
-        "imageName": "machamp",
-        "first_move": [
-            "counter (fighting)"
-        ],
-        "second_move": [
-            "dynamic punch (fighting)"
-        ]
-    },
-    {
         "pokemon": "Mega Lucario",
         "variant": [
             "Mega"
         ],
         "imageName": "lucario-mega",
         "first_move": [
-            "counter (fighting)"
+            "force palm* (fighting)"
         ],
         "second_move": [
-            "power-up punch (fighting)"
+            "aura sphere (fighting)"
         ]
     },
     {
-        "pokemon": "Conkeldurr",
+        "pokemon": "Mega Blaziken",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "blaziken-mega",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Mega Heracross",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "heracross-mega",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "close combat (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Lucario",
         "variant": [],
+        "imageName": "lucario",
+        "first_move": [
+            "force palm* (fighting)"
+        ],
+        "second_move": [
+            "aura sphere (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Conkeldurr",
+        "variant": [
+            "Shadow"
+        ],
         "imageName": "conkeldurr",
         "first_move": [
             "counter (fighting)"
@@ -35,25 +63,14 @@
         ]
     },
     {
-        "pokemon": "Hariyama",
+        "pokemon": "Terrakion",
         "variant": [],
-        "imageName": "hariyama",
+        "imageName": "terrakion",
         "first_move": [
-            "counter (fighting)"
+            "double kick* (fighting)"
         ],
         "second_move": [
-            "dynamic punch (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Blaziken",
-        "variant": [],
-        "imageName": "blaziken",
-        "first_move": [
-            "counter (fighting)"
-        ],
-        "second_move": [
-            "focus blast (fighting)"
+            "sacred sword (fighting)"
         ]
     },
     {
@@ -70,16 +87,99 @@
         ]
     },
     {
-        "pokemon": "Shadow Lucario",
+        "pokemon": "Shadow Hariyama",
         "variant": [
             "Shadow"
         ],
-        "imageName": "lucario",
+        "imageName": "hariyama",
+        "first_move": [
+            "force palm* (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Blaziken",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "blaziken",
         "first_move": [
             "counter (fighting)"
         ],
         "second_move": [
-            "power-up punch (fighting)"
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Keldeo",
+        "variant": [],
+        "imageName": "keldeo",
+        "first_move": [
+            "low kick (fighting)"
+        ],
+        "second_move": [
+            "sacred sword (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Pheromosa",
+        "variant": [],
+        "imageName": "pheromosa",
+        "first_move": [
+            "low kick (fighting)"
+        ],
+        "second_move": [
+            "focus blast (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Toxicroak",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "toxicroak",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "dynamic punch (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Mienshao",
+        "variant": [],
+        "imageName": "mienshao",
+        "first_move": [
+            "force palm* (fighting)"
+        ],
+        "second_move": [
+            "brick break (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Sneasler",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "sneasler",
+        "first_move": [
+            "rock smash (fighting)"
+        ],
+        "second_move": [
+            "close combat (fighting)"
+        ]
+    },
+    {
+        "pokemon": "Marshadow",
+        "variant": [],
+        "imageName": "marshadow",
+        "first_move": [
+            "counter (fighting)"
+        ],
+        "second_move": [
+            "close combat (fighting)"
         ]
     }
 ]

@@ -1,15 +1,15 @@
 [
     {
-        "pokemon": "Primal Kyogre",
+        "pokemon": "Mega Swampert",
         "variant": [
-            "Primal"
+            "Mega"
         ],
-        "imageName": "kyogre-primal",
+        "imageName": "swampert-mega",
         "first_move": [
-            "origin pulse (water)"
+            "water gun (water)"
         ],
         "second_move": [
-            "surf (water)"
+            "hydro cannon* (water)"
         ]
     },
     {
@@ -19,23 +19,98 @@
         ],
         "imageName": "blastoise-mega",
         "first_move": [
-            "hydro cannon* (water)"
+            "water gun (water)"
         ],
         "second_move": [
-            "ice beam (ice)"
+            "hydro cannon* (water)"
         ]
     },
     {
-        "pokemon": "Mega Swampert",
+        "pokemon": "Primal Kyogre",
         "variant": [
-            "Mega"
+            "Primal"
         ],
-        "imageName": "swampert-mega",
+        "imageName": "kyogre-primal",
         "first_move": [
-            "hydro cannon* (water)"
+            "waterfall (water)"
         ],
         "second_move": [
-            "earthquake (ground)"
+            "surf (water)",
+            "origin pulse* (water)"
+        ]
+    },
+    {
+        "pokemon": "Kyogre",
+        "variant": [],
+        "imageName": "kyogre",
+        "first_move": [
+            "waterfall (water)"
+        ],
+        "second_move": [
+            "origin pulse* (water)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Empoleon",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "empoleon",
+        "first_move": [
+            "waterfall (water)"
+        ],
+        "second_move": [
+            "hydro cannon* (water)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Crawdaunt",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "crawdaunt",
+        "first_move": [
+            "waterfall (water)"
+        ],
+        "second_move": [
+            "crabhammer (water)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Swampert",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "swampert",
+        "first_move": [
+            "water gun (water)"
+        ],
+        "second_move": [
+            "hydro cannon* (water)"
+        ]
+    },
+    {
+        "pokemon": "Greninja",
+        "variant": [],
+        "imageName": "greninja",
+        "first_move": [
+            "water shuriken (water)"
+        ],
+        "second_move": [
+            "hydro cannon* (water)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Feraligatr",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "feraligatr",
+        "first_move": [
+            "waterfall (water)"
+        ],
+        "second_move": [
+            "hydro cannon* (water)"
         ]
     },
     {
@@ -48,75 +123,40 @@
             "waterfall (water)"
         ],
         "second_move": [
-            "crunch (dark)"
+            "hydro pump (water)"
         ]
     },
     {
-        "pokemon": "Suicune",
+        "pokemon": "Primarina",
         "variant": [],
-        "imageName": "suicune",
+        "imageName": "primarina",
         "first_move": [
-            "surf (water)"
+            "waterfall (water)"
         ],
         "second_move": [
-            "ice beam (ice)"
-        ]
-    },
-    {
-        "pokemon": "Feraligatr",
-        "variant": [],
-        "imageName": "feraligatr",
-        "first_move": [
             "hydro cannon* (water)"
-        ],
-        "second_move": [
-            "ice punch (ice)"
         ]
     },
     {
-        "pokemon": "Greninja",
+        "pokemon": "Crawdaunt",
         "variant": [],
-        "imageName": "greninja",
+        "imageName": "crawdaunt",
         "first_move": [
-            "water shuriken (water)"
+            "waterfall (water)"
         ],
         "second_move": [
-            "dark pulse (dark)"
+            "crabhammer (water)"
         ]
     },
     {
-        "pokemon": "Mega Sharpedo",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "sharpedo-mega",
-        "first_move": [
-            "hydro pump (water)"
-        ],
-        "second_move": [
-            "crunch (dark)"
-        ]
-    },
-    {
-        "pokemon": "Vaporeon",
+        "pokemon": "Inteleon",
         "variant": [],
-        "imageName": "vaporeon",
+        "imageName": "inteleon",
         "first_move": [
-            "hydro pump (water)"
+            "water gun (water)"
         ],
         "second_move": [
-            "ice beam (ice)"
-        ]
-    },
-    {
-        "pokemon": "Lapras",
-        "variant": [],
-        "imageName": "lapras",
-        "first_move": [
             "surf (water)"
-        ],
-        "second_move": [
-            "ice beam (ice)"
         ]
     },
     {
@@ -129,31 +169,18 @@
             "waterfall (water)"
         ],
         "second_move": [
-            "crunch (dark)"
+            "hydro pump (water)"
         ]
     },
     {
-        "pokemon": "Shadow Swampert",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "swampert",
-        "first_move": [
-            "hydro cannon* (water)"
-        ],
-        "second_move": [
-            "earthquake (ground)"
-        ]
-    },
-    {
-        "pokemon": "Kingdra",
+        "pokemon": "Kingler",
         "variant": [],
-        "imageName": "kingdra",
+        "imageName": "kingler",
         "first_move": [
-            "surf (water)"
+            "bubble (water)"
         ],
         "second_move": [
-            "dragon pulse (dragon)"
+            "crabhammer (water)"
         ]
     }
 ]

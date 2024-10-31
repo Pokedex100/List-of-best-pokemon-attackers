@@ -1,42 +1,35 @@
 [
     {
-        "pokemon": "Mega Mewtwo y",
+        "pokemon": "Shadow Mewtwo",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "mewtwo",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "psystrike* (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Mega Alakazam",
         "variant": [
             "Mega"
         ],
-        "imageName": "mewtwo-mega-y",
+        "imageName": "alakazam-mega",
         "first_move": [
-            "confusion (psychic)"
+            "psycho cut (psychic)"
         ],
         "second_move": [
             "psychic (psychic)"
         ]
     },
     {
-        "pokemon": "Alakazam",
-        "variant": [],
-        "imageName": "alakazam",
-        "first_move": [
-            "confusion (psychic)"
+        "pokemon": "Shadow Metagross",
+        "variant": [
+            "Shadow"
         ],
-        "second_move": [
-            "psychic (psychic)"
-        ]
-    },
-    {
-        "pokemon": "Espeon",
-        "variant": [],
-        "imageName": "espeon",
-        "first_move": [
-            "confusion (psychic)"
-        ],
-        "second_move": [
-            "psychic (psychic)"
-        ]
-    },
-    {
-        "pokemon": "Metagross",
-        "variant": [],
         "imageName": "metagross",
         "first_move": [
             "bullet punch (steel)"
@@ -46,14 +39,14 @@
         ]
     },
     {
-        "pokemon": "Gardevoir",
+        "pokemon": "Mewtwo",
         "variant": [],
-        "imageName": "gardevoir",
+        "imageName": "mewtwo",
         "first_move": [
             "confusion (psychic)"
         ],
         "second_move": [
-            "psychic (psychic)"
+            "psystrike* (psychic)"
         ]
     },
     {
@@ -70,16 +63,119 @@
         ]
     },
     {
-        "pokemon": "Shadow Mewtwo",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "mewtwo",
+        "pokemon": "Hoopa (Unbound)",
+        "variant": [],
+        "imageName": "hoopa-unbound",
         "first_move": [
             "confusion (psychic)"
         ],
         "second_move": [
             "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Latios",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "latios",
+        "first_move": [
+            "zen headbutt (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Mega Gardevoir",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "gardevoir-mega",
+        "first_move": [
+            "confusion (psychic)"
+        ],
+        "second_move": [
+            "synchronoise* (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Mega Latios",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "latios-mega",
+        "first_move": [
+            "zen headbutt (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Alakazam",
+        "variant": [],
+        "imageName": "alakazam",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Dusk Mane Necrozma",
+        "variant": [],
+        "imageName": "necrozma-dusk-mane",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "future sight (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Necrozma",
+        "variant": [],
+        "imageName": "necrozma",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "future sight (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Hatterene",
+        "variant": [],
+        "imageName": "hatterene",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "psychic (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Galarian Articuno",
+        "variant": [],
+        "imageName": "articuno-galarian",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "future sight (psychic)"
+        ]
+    },
+    {
+        "pokemon": "Dawn Wings Necrozma",
+        "variant": [],
+        "imageName": "necrozma-dawn-wings",
+        "first_move": [
+            "psycho cut (psychic)"
+        ],
+        "second_move": [
+            "future sight (psychic)"
         ]
     }
 ]

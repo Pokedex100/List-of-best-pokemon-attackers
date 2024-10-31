@@ -1,105 +1,15 @@
 [
     {
-        "pokemon": "Raikou",
-        "variant": [],
-        "imageName": "raikou",
-        "first_move": [
-            "thunder shock (electric)"
+        "pokemon": "Shadow Electivire",
+        "variant": [
+            "Shadow"
         ],
-        "second_move": [
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Zapdos",
-        "variant": [],
-        "imageName": "zapdos",
-        "first_move": [
-            "thunder shock (electric)"
-        ],
-        "second_move": [
-            "thunderbolt (electric)"
-        ]
-    },
-    {
-        "pokemon": "Electivire",
-        "variant": [],
         "imageName": "electivire",
         "first_move": [
             "thunder shock (electric)"
         ],
         "second_move": [
             "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Magnezone",
-        "variant": [],
-        "imageName": "magnezone",
-        "first_move": [
-            "spark (electric)"
-        ],
-        "second_move": [
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Thundurus (Therian)",
-        "variant": [
-            "Therian"
-        ],
-        "imageName": "thundurus-therian",
-        "first_move": [
-            "volt switch (electric)"
-        ],
-        "second_move": [
-            "thunderbolt (electric)"
-        ]
-    },
-    {
-        "pokemon": "Luxray",
-        "variant": [],
-        "imageName": "luxray",
-        "first_move": [
-            "spark (electric)"
-        ],
-        "second_move": [
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Zekrom",
-        "variant": [],
-        "imageName": "zekrom",
-        "first_move": [
-            "charge beam (electric)"
-        ],
-        "second_move": [
-            "wild charge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Mega Ampharos",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "ampharos-mega",
-        "first_move": [
-            "volt switch (electric)"
-        ],
-        "second_move": [
-            "zap cannon (electric)"
-        ]
-    },
-    {
-        "pokemon": "Rotom (Wash)",
-        "variant": [],
-        "imageName": "rotom-wash",
-        "first_move": [
-            "thunder shock (electric)"
-        ],
-        "second_move": [
-            "thunderbolt (electric)"
         ]
     },
     {
@@ -125,18 +35,154 @@
             "thunder shock (electric)"
         ],
         "second_move": [
-            "thunderbolt (electric)"
+            "thunderbolt* (electric)"
         ]
     },
     {
-        "pokemon": "Jolteon",
+        "pokemon": "Shadow Luxray",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "luxray",
+        "first_move": [
+            "spark (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Xurkitree",
         "variant": [],
-        "imageName": "jolteon",
+        "imageName": "xurkitree",
         "first_move": [
             "thunder shock (electric)"
         ],
         "second_move": [
+            "discharge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Thundurus (Therian Forme)",
+        "variant": [
+            "Therian Forme"
+        ],
+        "imageName": "thundurus-therian",
+        "first_move": [
+            "volt switch (electric)"
+        ],
+        "second_move": [
             "thunderbolt (electric)"
+        ]
+    },
+    {
+        "pokemon": "Mega Manectric",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "manectric-mega",
+        "first_move": [
+            "thunder fang (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Magnezone",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "magnezone",
+        "first_move": [
+            "volt switch (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Zekrom",
+        "variant": [],
+        "imageName": "zekrom",
+        "first_move": [
+            "charge beam (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Zebstrika",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "zebstrika",
+        "first_move": [
+            "spark (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Manectric",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "manectric",
+        "first_move": [
+            "thunder fang (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Regieleki",
+        "variant": [],
+        "imageName": "regieleki",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "zap cannon (electric)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Golem (Alolan)",
+        "variant": [
+            "Shadow",
+            "Alolan"
+        ],
+        "imageName": "golem-alolan",
+        "first_move": [
+            "volt switch (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Electivire",
+        "variant": [],
+        "imageName": "electivire",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
+        ]
+    },
+    {
+        "pokemon": "Raikou",
+        "variant": [],
+        "imageName": "raikou",
+        "first_move": [
+            "thunder shock (electric)"
+        ],
+        "second_move": [
+            "wild charge (electric)"
         ]
     }
 ]

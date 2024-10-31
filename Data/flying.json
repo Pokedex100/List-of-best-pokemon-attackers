@@ -1,70 +1,26 @@
 [
     {
-        "pokemon": "Talonflame",
-        "variant": [],
-        "imageName": "talonflame",
-        "first_move": [
-            "wing attack (flying)"
-        ],
-        "second_move": [
-            "brave bird (flying)"
-        ]
-    },
-    {
-        "pokemon": "Charizard",
-        "variant": [],
-        "imageName": "charizard",
-        "first_move": [
-            "air slash (flying)"
-        ],
-        "second_move": [
-            "wing attack (flying)"
-        ]
-    },
-    {
-        "pokemon": "Honchkrow",
-        "variant": [],
-        "imageName": "honchkrow",
-        "first_move": [
-            "air slash (flying)"
-        ],
-        "second_move": [
-            "brave bird (flying)"
-        ]
-    },
-    {
-        "pokemon": "Gliscor",
-        "variant": [],
-        "imageName": "gliscor",
-        "first_move": [
-            "air slash (flying)"
-        ],
-        "second_move": [
-            "earthquake (ground)"
-        ]
-    },
-    {
-        "pokemon": "Mandibuzz",
-        "variant": [],
-        "imageName": "mandibuzz",
-        "first_move": [
-            "air slash (flying)"
-        ],
-        "second_move": [
-            "foul play (dark)"
-        ]
-    },
-    {
-        "pokemon": "Shadow Talonflame",
+        "pokemon": "Mega Rayquaza",
         "variant": [
-            "Shadow"
+            "Mega"
         ],
-        "imageName": "talonflame",
+        "imageName": "rayquaza-mega",
         "first_move": [
-            "wing attack (flying)"
+            "air slash (flying)"
         ],
         "second_move": [
-            "brave bird (flying)"
+            "dragon ascent* (flying)"
+        ]
+    },
+    {
+        "pokemon": "Rayquaza",
+        "variant": [],
+        "imageName": "rayquaza",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "dragon ascent* (flying)"
         ]
     },
     {
@@ -74,10 +30,164 @@
         ],
         "imageName": "honchkrow",
         "first_move": [
+            "peck (flying)"
+        ],
+        "second_move": [
+            "sky attack* (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Staraptor",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "staraptor",
+        "first_move": [
+            "wing attack* (flying)"
+        ],
+        "second_move": [
+            "fly (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Ho-Oh",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "ho-oh",
+        "first_move": [
+            "hidden power (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Mega Pidgeot",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "pidgeot-mega",
+        "first_move": [
+            "gust (flying)"
+        ],
+        "second_move": [
+            "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Enamorus (Incarnate Forme)",
+        "variant": [
+            "Incarnate Forme"
+        ],
+        "imageName": "enamorus-incarnate",
+        "first_move": [
+            "fairy wind (fairy)"
+        ],
+        "second_move": [
+            "fly (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Moltres",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "moltres",
+        "first_move": [
+            "wing attack* (flying)"
+        ],
+        "second_move": [
+            "sky attack* (flying)"
+        ]
+    },
+    {
+        "pokemon": "Tornadus (Therian Forme)",
+        "variant": [
+            "Therian Forme"
+        ],
+        "imageName": "tornadus-therian",
+        "first_move": [
+            "gust (flying)"
+        ],
+        "second_move": [
+            "bleakwind storm (flying)"
+        ]
+    },
+    {
+        "pokemon": "Yveltal",
+        "variant": [],
+        "imageName": "yveltal",
+        "first_move": [
+            "gust (flying)"
+        ],
+        "second_move": [
+            "oblivion wing (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Unfezant",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "unfezant",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "sky attack* (flying)"
+        ]
+    },
+    {
+        "pokemon": "Tornadus (Incarnate Forme)",
+        "variant": [
+            "Incarnate Forme"
+        ],
+        "imageName": "tornadus-incarnate",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "hurricane (flying)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Salamence",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "salamence",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "fly (flying)"
+        ]
+    },
+    {
+        "pokemon": "Hisuian Braviary",
+        "variant": [
+            "Hisuian"
+        ],
+        "imageName": "braviary-hisuian",
+        "first_move": [
             "air slash (flying)"
         ],
         "second_move": [
             "brave bird (flying)"
+        ]
+    },
+    {
+        "pokemon": "Mega Salamence",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "salamence-mega",
+        "first_move": [
+            "dragon tail (dragon)"
+        ],
+        "second_move": [
+            "fly (flying)"
         ]
     }
 ]

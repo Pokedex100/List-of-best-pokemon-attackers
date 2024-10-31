@@ -1,16 +1,5 @@
 [
     {
-        "pokemon": "Sylveon",
-        "variant": [],
-        "imageName": "sylveon",
-        "first_move": [
-            "charm (fairy)"
-        ],
-        "second_move": [
-            "moonblast (fairy)"
-        ]
-    },
-    {
         "pokemon": "Mega Gardevoir",
         "variant": [
             "Mega"
@@ -20,18 +9,79 @@
             "charm (fairy)"
         ],
         "second_move": [
-            "moonblast (fairy)"
+            "dazzling gleam (fairy)"
         ]
     },
     {
-        "pokemon": "Granbull",
-        "variant": [],
+        "pokemon": "Shadow Gardevoir",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "gardevoir",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Granbull",
+        "variant": [
+            "Shadow"
+        ],
         "imageName": "granbull",
         "first_move": [
             "charm (fairy)"
         ],
         "second_move": [
             "play rough (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Enamorus (Incarnate Forme)",
+        "variant": [
+            "Incarnate Forme"
+        ],
+        "imageName": "enamorus-incarnate",
+        "first_move": [
+            "fairy wind (fairy)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Xerneas",
+        "variant": [],
+        "imageName": "xerneas",
+        "first_move": [
+            "geomancy* (fairy)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Gardevoir",
+        "variant": [],
+        "imageName": "gardevoir",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Hatterene",
+        "variant": [],
+        "imageName": "hatterene",
+        "first_move": [
+            "charm (fairy)"
+        ],
+        "second_move": [
+            "dazzling gleam (fairy)"
         ]
     },
     {
@@ -46,9 +96,22 @@
         ]
     },
     {
-        "pokemon": "Clefable",
+        "pokemon": "Mega Diancie",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "diancie-mega",
+        "first_move": [
+            "tackle (normal)"
+        ],
+        "second_move": [
+            "moonblast (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Primarina",
         "variant": [],
-        "imageName": "clefable",
+        "imageName": "primarina",
         "first_move": [
             "charm (fairy)"
         ],
@@ -57,10 +120,8 @@
         ]
     },
     {
-        "pokemon": "Shadow Sylveon",
-        "variant": [
-            "Shadow"
-        ],
+        "pokemon": "Sylveon",
+        "variant": [],
         "imageName": "sylveon",
         "first_move": [
             "charm (fairy)"
@@ -70,16 +131,47 @@
         ]
     },
     {
-        "pokemon": "Shadow Gardevoir",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "gardevoir",
+        "pokemon": "Tapu Koko",
+        "variant": [],
+        "imageName": "tapu-koko",
         "first_move": [
-            "charm (fairy)"
+            "volt switch (electric)"
         ],
         "second_move": [
-            "moonblast (fairy)"
+            "nature's madness* (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Tapu Lele",
+        "variant": [],
+        "imageName": "tapu-lele",
+        "first_move": [
+            "astonish (ghost)"
+        ],
+        "second_move": [
+            "nature's madness* (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Tapu Bulu",
+        "variant": [],
+        "imageName": "tapu-bulu",
+        "first_move": [
+            "bullet seed (grass)"
+        ],
+        "second_move": [
+            "nature's madness* (fairy)"
+        ]
+    },
+    {
+        "pokemon": "Zacian",
+        "variant": [],
+        "imageName": "zacian",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "play rough (fairy)"
         ]
     }
 ]

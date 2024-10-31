@@ -1,24 +1,41 @@
 [
     {
-        "pokemon": "Tyranitar",
-        "variant": [],
-        "imageName": "tyranitar",
+        "pokemon": "Shadow Rampardos",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "rampardos",
         "first_move": [
-            "smack down* (rock)"
+            "smack down (rock)"
         ],
         "second_move": [
-            "stone edge (rock)"
+            "rock slide (rock)"
         ]
     },
     {
-        "pokemon": "Rhyperior",
-        "variant": [],
-        "imageName": "rhyperior",
+        "pokemon": "Mega Diancie",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "diancie-mega",
         "first_move": [
-            "smack down* (rock)"
+            "rock throw (rock)"
         ],
         "second_move": [
-            "rock wrecker* (rock)"
+            "rock slide (rock)"
+        ]
+    },
+    {
+        "pokemon": "Mega Aerodactyl",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "aerodactyl-mega",
+        "first_move": [
+            "rock throw (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
         ]
     },
     {
@@ -26,7 +43,83 @@
         "variant": [],
         "imageName": "rampardos",
         "first_move": [
-            "smack down* (rock)"
+            "smack down (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Rhyperior",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "rhyperior",
+        "first_move": [
+            "mud slap (ground)"
+        ],
+        "second_move": [
+            "rock wrecker* (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Gigalith",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "gigalith",
+        "first_move": [
+            "smack down (rock)"
+        ],
+        "second_move": [
+            "rock slide (rock)"
+        ]
+    },
+    {
+        "pokemon": "Rhyperior",
+        "variant": [],
+        "imageName": "rhyperior",
+        "first_move": [
+            "smack down (rock)"
+        ],
+        "second_move": [
+            "rock wrecker* (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Golem",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "golem",
+        "first_move": [
+            "rock throw (rock)"
+        ],
+        "second_move": [
+            "rock blast (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Alolan Golem",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "golem-alolan",
+        "first_move": [
+            "rock throw (rock)"
+        ],
+        "second_move": [
+            "rock blast (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Aerodactyl",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "aerodactyl",
+        "first_move": [
+            "rock throw (rock)"
         ],
         "second_move": [
             "rock slide (rock)"
@@ -37,16 +130,16 @@
         "variant": [],
         "imageName": "terrakion",
         "first_move": [
-            "smack down* (rock)"
+            "smack down (rock)"
         ],
         "second_move": [
             "rock slide (rock)"
         ]
     },
     {
-        "pokemon": "Regirock",
+        "pokemon": "Stakataka",
         "variant": [],
-        "imageName": "regirock",
+        "imageName": "stakataka",
         "first_move": [
             "rock throw (rock)"
         ],
@@ -55,29 +148,38 @@
         ]
     },
     {
-        "pokemon": "Shadow Tyranitar",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "tyranitar",
+        "pokemon": "Stonjourner",
+        "variant": [],
+        "imageName": "stonjourner",
         "first_move": [
-            "smack down* (rock)"
+            "rock throw (rock)"
         ],
         "second_move": [
             "stone edge (rock)"
         ]
     },
     {
-        "pokemon": "Shadow Omastar",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "omastar",
+        "pokemon": "Tyrantrum",
+        "variant": [],
+        "imageName": "tyrantrum",
         "first_move": [
             "rock throw (rock)"
         ],
         "second_move": [
-            "rock slide (rock)"
+            "meteor beam (rock)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Aggron",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "aggron",
+        "first_move": [
+            "smack down (rock)"
+        ],
+        "second_move": [
+            "meteor beam (rock)"
         ]
     }
 ]

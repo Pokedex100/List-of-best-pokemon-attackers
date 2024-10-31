@@ -1,142 +1,15 @@
 [
     {
-        "pokemon": "Mega Scizor",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "scizor-mega",
-        "first_move": [
-            "fury cutter (bug)"
-        ],
-        "second_move": [
-            "x-scissor (bug)",
-            "iron head (steel)"
-        ]
-    },
-    {
         "pokemon": "Mega Pinsir",
         "variant": [
             "Mega"
         ],
         "imageName": "pinsir-mega",
         "first_move": [
-            "bug bite (bug)"
+            "fury cutter (bug)"
         ],
         "second_move": [
-            "close combat (fighting)",
             "x-scissor (bug)"
-        ]
-    },
-    {
-        "pokemon": "Volcarona",
-        "variant": [],
-        "imageName": "volcarona",
-        "first_move": [
-            "bug bite (bug)"
-        ],
-        "second_move": [
-            "bug buzz (bug)",
-            "heat wave (fire)"
-        ]
-    },
-    {
-        "pokemon": "Mega Heracross",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "heracross-mega",
-        "first_move": [
-            "counter (fighting)"
-        ],
-        "second_move": [
-            "megahorn (bug)",
-            "close combat (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Genesect",
-        "variant": [],
-        "imageName": "genesect",
-        "first_move": [
-            "fury cutter (bug)"
-        ],
-        "second_move": [
-            "x-scissor (bug)",
-            "techno blast (normal)"
-        ]
-    },
-    {
-        "pokemon": "Yanmega",
-        "variant": [],
-        "imageName": "yanmega",
-        "first_move": [
-            "bug bite (bug)"
-        ],
-        "second_move": [
-            "bug buzz (bug)",
-            "ancient power (rock)"
-        ]
-    },
-    {
-        "pokemon": "Beedrill",
-        "variant": [
-            "Mega"
-        ],
-        "imageName": "beedrill-mega",
-        "first_move": [
-            "poison jab (poison)"
-        ],
-        "second_move": [
-            "x-scissor (bug)",
-            "sludge bomb (poison)"
-        ]
-    },
-    {
-        "pokemon": "Golisopod",
-        "variant": [],
-        "imageName": "golisopod",
-        "first_move": [
-            "fury cutter (bug)"
-        ],
-        "second_move": [
-            "x-scissor (bug)",
-            "aqua jet (water)"
-        ]
-    },
-    {
-        "pokemon": "Vikavolt",
-        "variant": [],
-        "imageName": "vikavolt",
-        "first_move": [
-            "spark (electric)"
-        ],
-        "second_move": [
-            "x-scissor (bug)",
-            "discharge (electric)"
-        ]
-    },
-    {
-        "pokemon": "Butterfree",
-        "variant": [],
-        "imageName": "butterfree",
-        "first_move": [
-            "confusion (psychic)"
-        ],
-        "second_move": [
-            "bug buzz (bug)",
-            "shadow ball (ghost)"
-        ]
-    },
-    {
-        "pokemon": "Scolipede",
-        "variant": [],
-        "imageName": "scolipede",
-        "first_move": [
-            "poison jab (poison)"
-        ],
-        "second_move": [
-            "megahorn (bug)",
-            "sludge bomb (poison)"
         ]
     },
     {
@@ -149,34 +22,160 @@
             "fury cutter (bug)"
         ],
         "second_move": [
-            "x-scissor (bug)",
-            "iron head (steel)"
+            "x-scissor (bug)"
         ]
     },
     {
-        "pokemon": "Escavalier",
-        "variant": [],
-        "imageName": "escavalier",
-        "first_move": [
-            "counter (fighting)"
-        ],
-        "second_move": [
-            "megahorn (bug)",
-            "drill run (ground)"
-        ]
-    },
-    {
-        "pokemon": "Gigantamax Butterfree",
+        "pokemon": "Mega Heracross",
         "variant": [
-            "Gigantamax"
+            "Mega"
         ],
-        "imageName": "butterfree-gigantamax",
+        "imageName": "heracross-mega",
         "first_move": [
-            "confusion (psychic)"
+            "struggle bug (bug)"
         ],
         "second_move": [
-            "bug buzz (bug)",
-            "shadow ball (ghost)"
+            "megahorn (bug)"
+        ]
+    },
+    {
+        "pokemon": "Mega Scizor",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "scizor-mega",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Pinsir",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "pinsir",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Mega Beedrill",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "beedrill-mega",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Scyther",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "scyther",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Genesect",
+        "variant": [],
+        "imageName": "genesect",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Vikavolt",
+        "variant": [],
+        "imageName": "vikavolt",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Volcarona",
+        "variant": [],
+        "imageName": "volcarona",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "bug buzz (bug)"
+        ]
+    },
+    {
+        "pokemon": "Yanmega",
+        "variant": [],
+        "imageName": "yanmega",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "bug buzz (bug)"
+        ]
+    },
+    {
+        "pokemon": "Golisopod",
+        "variant": [],
+        "imageName": "golisopod",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Kleavor",
+        "variant": [],
+        "imageName": "kleavor",
+        "first_move": [
+            "air slash (flying)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Leavanny",
+        "variant": [],
+        "imageName": "leavanny",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
+        ]
+    },
+    {
+        "pokemon": "Durant",
+        "variant": [],
+        "imageName": "durant",
+        "first_move": [
+            "bug bite (bug)"
+        ],
+        "second_move": [
+            "x-scissor (bug)"
         ]
     }
 ]

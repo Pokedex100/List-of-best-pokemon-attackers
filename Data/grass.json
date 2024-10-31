@@ -1,27 +1,177 @@
 [
     {
-        "pokemon": "Venusaur",
-        "variant": [],
-        "imageName": "venusaur",
-        "first_move": [
-            "solar beam (grass)",
-            "sludge bomb (poison)"
-        ],
-        "second_move": [
-            "earthquake (ground)"
-        ]
-    },
-    {
         "pokemon": "Mega Sceptile",
         "variant": [
             "Mega"
         ],
         "imageName": "sceptile-mega",
         "first_move": [
-            "leaf blade (grass)"
+            "fury cutter (bug)"
         ],
         "second_move": [
-            "dragon claw (dragon)"
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Sceptile",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "sceptile",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Kartana",
+        "variant": [],
+        "imageName": "kartana",
+        "first_move": [
+            "razor leaf (grass)"
+        ],
+        "second_move": [
+            "leaf blade (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Cacturne",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "cacturne",
+        "first_move": [
+            "sucker punch (dark)"
+        ],
+        "second_move": [
+            "grass knot (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shaymin (Sky Forme)",
+        "variant": [
+            "Sky"
+        ],
+        "imageName": "shaymin-sky",
+        "first_move": [
+            "magical leaf (grass)"
+        ],
+        "second_move": [
+            "grass knot (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Venusaur",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "venusaur",
+        "first_move": [
+            "vine whip (grass)",
+            "razor leaf (grass)"
+        ],
+        "second_move": [
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Tangrowth",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "tangrowth",
+        "first_move": [
+            "vine whip (grass)"
+        ],
+        "second_move": [
+            "power whip (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Torterra",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "torterra",
+        "first_move": [
+            "razor leaf (grass)"
+        ],
+        "second_move": [
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Exeggutor",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "exeggutor",
+        "first_move": [
+            "bullet seed (grass)"
+        ],
+        "second_move": [
+            "seed bomb (grass)"
+        ]
+    },
+    {
+        "pokemon": "Mega Venusaur",
+        "variant": [
+            "Mega"
+        ],
+        "imageName": "venusaur-mega",
+        "first_move": [
+            "vine whip (grass)"
+        ],
+        "second_move": [
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Zarude",
+        "variant": [],
+        "imageName": "zarude",
+        "first_move": [
+            "vine whip (grass)"
+        ],
+        "second_move": [
+            "power whip (grass)"
+        ]
+    },
+    {
+        "pokemon": "Breloom",
+        "variant": [],
+        "imageName": "breloom",
+        "first_move": [
+            "force palm (fighting)"
+        ],
+        "second_move": [
+            "grass knot (grass)"
+        ]
+    },
+    {
+        "pokemon": "Sceptile",
+        "variant": [],
+        "imageName": "sceptile",
+        "first_move": [
+            "fury cutter (bug)"
+        ],
+        "second_move": [
+            "frenzy plant* (grass)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Shiftry",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "shiftry",
+        "first_move": [
+            "razor leaf (grass)"
+        ],
+        "second_move": [
+            "leaf blade (grass)"
         ]
     },
     {
@@ -29,112 +179,10 @@
         "variant": [],
         "imageName": "roserade",
         "first_move": [
-            "leaf storm (grass)"
+            "razor leaf (grass)"
         ],
         "second_move": [
-            "sludge bomb (poison)"
-        ]
-    },
-    {
-        "pokemon": "Ferrothorn",
-        "variant": [],
-        "imageName": "ferrothorn",
-        "first_move": [
-            "power whip (grass)"
-        ],
-        "second_move": [
-            "gyro ball* (steel)"
-        ]
-    },
-    {
-        "pokemon": "Torterra",
-        "variant": [],
-        "imageName": "torterra",
-        "first_move": [
-            "wood hammer (grass)"
-        ],
-        "second_move": [
-            "earthquake* (ground)"
-        ]
-    },
-    {
-        "pokemon": "Tangrowth",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "tangrowth",
-        "first_move": [
-            "power whip (grass)"
-        ],
-        "second_move": [
-            "sludge bomb (poison)"
-        ]
-    },
-    {
-        "pokemon": "Lurantis",
-        "variant": [],
-        "imageName": "lurantis",
-        "first_move": [
-            "leaf blade (grass)"
-        ],
-        "second_move": [
-            "superpower (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Shiftry",
-        "variant": [],
-        "imageName": "shiftry",
-        "first_move": [
-            "leaf storm (grass)",
-            "foul play (dark)"
-        ],
-        "second_move": [
-            "hurricane (flying)"
-        ]
-    },
-    {
-        "pokemon": "Leafeon",
-        "variant": [],
-        "imageName": "leafeon",
-        "first_move": [
-            "leaf blade (grass)"
-        ],
-        "second_move": [
-            "x-scissor (bug)"
-        ]
-    },
-    {
-        "pokemon": "Chesnaught",
-        "variant": [],
-        "imageName": "chesnaught",
-        "first_move": [
-            "wood hammer (grass)"
-        ],
-        "second_move": [
-            "drain punch (fighting)"
-        ]
-    },
-    {
-        "pokemon": "Tropius",
-        "variant": [],
-        "imageName": "tropius",
-        "first_move": [
-            "leaf blade (grass)"
-        ],
-        "second_move": [
-            "aerial ace (flying)"
-        ]
-    },
-    {
-        "pokemon": "Decidueye",
-        "variant": [],
-        "imageName": "decidueye",
-        "first_move": [
-            "leaf blade (grass)"
-        ],
-        "second_move": [
-            "spirit shackle (ghost)"
+            "grass knot (grass)"
         ]
     }
 ]
