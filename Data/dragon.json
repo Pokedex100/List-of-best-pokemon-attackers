@@ -22,7 +22,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "breaking swipe (dragon)"
+            "breaking swipe* (dragon)"
         ]
     },
     {
@@ -35,7 +35,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "draco meteor (dragon)"
+            "draco meteor* (dragon)"
         ]
     },
     {
@@ -72,7 +72,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "breaking swipe (dragon)"
+            "breaking swipe* (dragon)"
         ]
     },
     {
@@ -83,7 +83,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "breaking swipe (dragon)"
+            "breaking swipe* (dragon)"
         ]
     },
     {
@@ -182,7 +182,7 @@
             "dragon tail (dragon)"
         ],
         "second_move": [
-            "draco meteor (dragon)"
+            "draco meteor* (dragon)"
         ]
     }
 ]
