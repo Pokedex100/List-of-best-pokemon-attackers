@@ -183,18 +183,5 @@
         "second_move": [
             "iron head (steel)"
         ]
-    },
-    {
-        "pokemon": "Shadow Empoleon",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "empoleon",
-        "first_move": [
-            "metal claw (steel)"
-        ],
-        "second_move": [
-            "flash cannon (steel)"
-        ]
     }
 ]
