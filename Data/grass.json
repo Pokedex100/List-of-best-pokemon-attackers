@@ -6,7 +6,7 @@
         ],
         "imageName": "sceptile-mega",
         "first_move": [
-            "fury cutter (bug)"
+            "bullet seed (grass)"
         ],
         "second_move": [
             "frenzy plant* (grass)"
@@ -19,7 +19,7 @@
         ],
         "imageName": "sceptile",
         "first_move": [
-            "fury cutter (bug)"
+            "bullet seed (grass)"
         ],
         "second_move": [
             "frenzy plant* (grass)"
@@ -155,7 +155,7 @@
         "variant": [],
         "imageName": "sceptile",
         "first_move": [
-            "fury cutter (bug)"
+            "bullet seed (grass)"
         ],
         "second_move": [
             "frenzy plant* (grass)"
