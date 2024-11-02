@@ -7,7 +7,7 @@
             "metal claw (steel)"
         ],
         "second_move": [
-            "sunsteel strike* (steel)"
+            "sunsteel strike (steel)"
         ]
     },
     {
@@ -116,7 +116,7 @@
             "thunder shock (electric)"
         ],
         "second_move": [
-            "double iron bash (steel)"
+            "double iron bash* (steel)"
         ]
     },
     {
@@ -130,19 +130,6 @@
         ],
         "second_move": [
             "iron head (steel)"
-        ]
-    },
-    {
-        "pokemon": "Shadow Magneton",
-        "variant": [
-            "Shadow"
-        ],
-        "imageName": "magneton",
-        "first_move": [
-            "metal sound (steel)"
-        ],
-        "second_move": [
-            "flash cannon (steel)"
         ]
     },
     {
@@ -195,6 +182,19 @@
         ],
         "second_move": [
             "iron head (steel)"
+        ]
+    },
+    {
+        "pokemon": "Shadow Empoleon",
+        "variant": [
+            "Shadow"
+        ],
+        "imageName": "empoleon",
+        "first_move": [
+            "metal claw (steel)"
+        ],
+        "second_move": [
+            "flash cannon (steel)"
         ]
     }
 ]

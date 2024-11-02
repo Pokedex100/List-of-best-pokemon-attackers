@@ -67,10 +67,10 @@
         "variant": [],
         "imageName": "terrakion",
         "first_move": [
-            "double kick* (fighting)"
+            "double kick (fighting)"
         ],
         "second_move": [
-            "sacred sword (fighting)"
+            "sacred sword* (fighting)"
         ]
     },
     {
@@ -93,7 +93,7 @@
         ],
         "imageName": "hariyama",
         "first_move": [
-            "force palm* (fighting)"
+            "force palm (fighting)"
         ],
         "second_move": [
             "dynamic punch (fighting)"
@@ -120,7 +120,7 @@
             "low kick (fighting)"
         ],
         "second_move": [
-            "sacred sword (fighting)"
+            "sacred sword* (fighting)"
         ]
     },
     {
@@ -152,7 +152,7 @@
         "variant": [],
         "imageName": "mienshao",
         "first_move": [
-            "force palm* (fighting)"
+            "force palm (fighting)"
         ],
         "second_move": [
             "brick break (fighting)"

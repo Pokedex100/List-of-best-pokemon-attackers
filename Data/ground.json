@@ -19,7 +19,7 @@
         ],
         "imageName": "mamoswine",
         "first_move": [
-            "mud slap (ground)"
+            "mud-slap (ground)"
         ],
         "second_move": [
             "high horsepower (ground)"
@@ -48,7 +48,7 @@
             "mud shot (ground)"
         ],
         "second_move": [
-            "sandsear storm (ground)"
+            "sandsear storm* (ground)"
         ]
     },
     {
@@ -61,7 +61,7 @@
             "mud shot (ground)"
         ],
         "second_move": [
-            "scorching sands* (ground)",
+            "scorching sands (ground)",
             "drill run (ground)"
         ]
     },
@@ -126,7 +126,7 @@
             "sand attack (ground)"
         ],
         "second_move": [
-            "scorching sands* (ground)"
+            "scorching sands (ground)"
         ]
     },
     {
@@ -134,7 +134,7 @@
         "variant": [],
         "imageName": "mamoswine",
         "first_move": [
-            "mud slap (ground)"
+            "mud-slap (ground)"
         ],
         "second_move": [
             "high horsepower (ground)"
@@ -145,7 +145,7 @@
         "variant": [],
         "imageName": "excadrill",
         "first_move": [
-            "mud slap (ground)"
+            "mud-slap (ground)"
         ],
         "second_move": [
             "scorching sands (ground)"
@@ -156,7 +156,7 @@
         "variant": [],
         "imageName": "krookodile",
         "first_move": [
-            "mud slap (ground)"
+            "mud-slap (ground)"
         ],
         "second_move": [
             "earthquake (ground)"
@@ -167,11 +167,11 @@
         "variant": [],
         "imageName": "garchomp",
         "first_move": [
-            "mud slap (ground)"
+            "mud shot (ground)"
         ],
         "second_move": [
             "earthquake (ground)",
-            "earth power (ground)"
+            "earth power* (ground)"
         ]
     },
     {
