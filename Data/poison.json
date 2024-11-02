@@ -6,10 +6,10 @@
         ],
         "imageName": "gengar",
         "first_move": [
-            "lick (ghost)"
+            "lick* (ghost)"
         ],
         "second_move": [
-            "sludge wave (poison)"
+            "sludge wave* (poison)"
         ]
     },
     {
@@ -54,10 +54,10 @@
         ],
         "imageName": "gengar-mega",
         "first_move": [
-            "lick (ghost)"
+            "lick* (ghost)"
         ],
         "second_move": [
-            "sludge wave (poison)"
+            "sludge wave* (poison)"
         ]
     },
     {
@@ -78,7 +78,7 @@
         ],
         "imageName": "haunter",
         "first_move": [
-            "lick (ghost)"
+            "lick* (ghost)"
         ],
         "second_move": [
             "sludge bomb (poison)"
